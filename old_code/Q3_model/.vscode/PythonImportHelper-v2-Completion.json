@@ -1,0 +1,209 @@
+[
+    {
+        "label": "OllamaLLM",
+        "importPath": "langchain_ollama.llms",
+        "description": "langchain_ollama.llms",
+        "isExtraImport": true,
+        "detail": "langchain_ollama.llms",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "ask_llm",
+        "importPath": "llms",
+        "description": "llms",
+        "isExtraImport": true,
+        "detail": "llms",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "importPath": "rag",
+        "description": "rag",
+        "isExtraImport": true,
+        "detail": "rag",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_chroma",
+        "description": "langchain_chroma",
+        "isExtraImport": true,
+        "detail": "langchain_chroma",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRetriever",
+        "importPath": "langchain_core.retrievers",
+        "description": "langchain_core.retrievers",
+        "isExtraImport": true,
+        "detail": "langchain_core.retrievers",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "ask_llm",
+        "kind": 2,
+        "importPath": "llms",
+        "description": "llms",
+        "peekOfCode": "def ask_llm(question, context):\n    res = chain.invoke( {\n        \"context\": context,\n        \"question\": question,\n    }\n    )\n    return res\n# from langchain_nvidia_ai_endpoints import NVIDIAEmbeddings\n# client = NVIDIAEmbeddings(\n#   model=\"nvidia/nv-embedcode-7b-v1\", ",
+        "detail": "llms",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "llms",
+        "description": "llms",
+        "peekOfCode": "llm = OllamaLLM(model ='qwen2.5:7b')\ntemplate = \"\"\"\nBạn là hệ thống hỏi đáp chuyên về bệnh trên cây mai vàng.\nQUY TẮC BẮT BUỘC\n1. Chủ yếu sử dụng thông tin trong CONTEXT, nếu không đủ thông tin có thể tìm kiếm thêm thông tin\nbằng cách yêu cầu người dùng nhập thêm mô tả chi tiết thông mà bạn cần muốn biết.\n2. KHÔNG được suy đoán, không được dùng kiến thức bên ngoài.\n3. Nếu CONTEXT không chứa câu trả lời → trả về:\n   \"Không đủ thông tin trong dữ liệu để trả lời.\"\n4. Không được bịa thêm nguyên nhân, triệu chứng hoặc cách chữa.",
+        "detail": "llms",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "llms",
+        "description": "llms",
+        "peekOfCode": "template = \"\"\"\nBạn là hệ thống hỏi đáp chuyên về bệnh trên cây mai vàng.\nQUY TẮC BẮT BUỘC\n1. Chủ yếu sử dụng thông tin trong CONTEXT, nếu không đủ thông tin có thể tìm kiếm thêm thông tin\nbằng cách yêu cầu người dùng nhập thêm mô tả chi tiết thông mà bạn cần muốn biết.\n2. KHÔNG được suy đoán, không được dùng kiến thức bên ngoài.\n3. Nếu CONTEXT không chứa câu trả lời → trả về:\n   \"Không đủ thông tin trong dữ liệu để trả lời.\"\n4. Không được bịa thêm nguyên nhân, triệu chứng hoặc cách chữa.\n5. Không được trích nguyên văn CONTEXT.",
+        "detail": "llms",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "llms",
+        "description": "llms",
+        "peekOfCode": "prompt = ChatPromptTemplate.from_template(template)  \n#tạo 1 prompt mà LangChain được được, nó hiểu chỉ cần truyền vào 2 biến context và question\n#lúc này kq là 1 obj với 2 khóa có gtri đang rỗng là context và question (ta sẽ truyền ở hàm ask_llm)\nchain= prompt | llm # dấu | có ý nghĩa là nối các bước xử lý thành 1 pipeline\ndef ask_llm(question, context):\n    res = chain.invoke( {\n        \"context\": context,\n        \"question\": question,\n    }\n    )",
+        "detail": "llms",
+        "documentation": {}
+    },
+    {
+        "label": "ask",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def ask(q: str):\n    trace_id = str(uuid.uuid4())\n    #buoc retrieval\n    docs = retriever.invoke(q)\n    print(\"QUESTION:\", q, end='\\n')\n    context = \"\\n\".join(\n        d.page_content\n        for d in docs\n    )\n    print(\"CONTEXT:\",context,end='\\n')",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\n#luu log danh gia model\nRAG_LOGS = []\n@app.get(\"/ask\")\ndef ask(q: str):\n    trace_id = str(uuid.uuid4())\n    #buoc retrieval\n    docs = retriever.invoke(q)\n    print(\"QUESTION:\", q, end='\\n')\n    context = \"\\n\".join(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "RAG_LOGS",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "RAG_LOGS = []\n@app.get(\"/ask\")\ndef ask(q: str):\n    trace_id = str(uuid.uuid4())\n    #buoc retrieval\n    docs = retriever.invoke(q)\n    print(\"QUESTION:\", q, end='\\n')\n    context = \"\\n\".join(\n        d.page_content\n        for d in docs",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaRetriever",
+        "kind": 6,
+        "importPath": "rag",
+        "description": "rag",
+        "peekOfCode": "class ChromaRetriever(BaseRetriever):\n    k : int = 3\n    def _get_relevant_documents(self, query):\n        query = (\n            \"Represent this sentence for searching relevant passages: \"\n            + query\n        )\n        q_emb = _model.encode(query).tolist()\n        results = _collection.query(\n            query_embeddings=[q_emb],",
+        "detail": "rag",
+        "documentation": {}
+    },
+    {
+        "label": "_client",
+        "kind": 5,
+        "importPath": "rag",
+        "description": "rag",
+        "peekOfCode": "_client = chromadb.PersistentClient(\n    path=\"chroma_db_split_markdownheader\"\n)\n_collection = _client.get_collection(\n    \"cay_mai_md\"\n)\n_model = SentenceTransformer(\n    \"BAAI/bge-m3\"\n)\nclass ChromaRetriever(BaseRetriever):",
+        "detail": "rag",
+        "documentation": {}
+    },
+    {
+        "label": "_collection",
+        "kind": 5,
+        "importPath": "rag",
+        "description": "rag",
+        "peekOfCode": "_collection = _client.get_collection(\n    \"cay_mai_md\"\n)\n_model = SentenceTransformer(\n    \"BAAI/bge-m3\"\n)\nclass ChromaRetriever(BaseRetriever):\n    k : int = 3\n    def _get_relevant_documents(self, query):\n        query = (",
+        "detail": "rag",
+        "documentation": {}
+    },
+    {
+        "label": "_model",
+        "kind": 5,
+        "importPath": "rag",
+        "description": "rag",
+        "peekOfCode": "_model = SentenceTransformer(\n    \"BAAI/bge-m3\"\n)\nclass ChromaRetriever(BaseRetriever):\n    k : int = 3\n    def _get_relevant_documents(self, query):\n        query = (\n            \"Represent this sentence for searching relevant passages: \"\n            + query\n        )",
+        "detail": "rag",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "rag",
+        "description": "rag",
+        "peekOfCode": "retriever = ChromaRetriever()",
+        "detail": "rag",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "what_collection_now",
+        "description": "what_collection_now",
+        "peekOfCode": "client = chromadb.PersistentClient(path=\"chroma_db\")\nprint(client.list_collections())",
+        "detail": "what_collection_now",
+        "documentation": {}
+    }
+]
