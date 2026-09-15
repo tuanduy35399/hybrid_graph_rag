@@ -10,14 +10,16 @@ from indexing.metadata.extractor import MetadataExtractor
 
 #Goi model embedding de chuyen may cai data vua phantich ra thanh graph theo mqh trong 
 #schema quy dinh roi luu vao chroma
-from indexing.embedding.bge_m3 import BGE_M3_Embedding
+from indexing.embedding.custom_model_embedding import CustomModelEmbedding
 from indexing.graph.graph_builder import GraphBuilder
+
 from indexing.vector.chroma import ChromaStore
 from indexing.graph.graph_store import GraphStore
 # from llm.gemini import GeminiLLM
 
 from llama_index.core import Settings
 from llm.ollama import OllamaLLM
+from llm.nvidia import NvidiaNimLLM
 from llama_index.core import VectorStoreIndex
 
 class BuildIndex:
@@ -31,12 +33,12 @@ class BuildIndex:
         self.parser = MarkdownParser()
         
         self.graph_store = GraphStore().get_store()
-        self.llm = OllamaLLM().get_llm()
+        self.llm = NvidiaNimLLM().get_llm()
         
         print(type(Settings.llm))
         print(Settings.llm.metadata.model_name)
         
-        self.embed_model = BGE_M3_Embedding().get_model()
+        self.embed_model = CustomModelEmbedding().get_model()
         
         self.metadata_extractor = MetadataExtractor()
         self.graph_builder = GraphBuilder(
@@ -61,8 +63,12 @@ class BuildIndex:
         nodes = self.parser.parse(documents)
 
         print("Giai nen metadata")
+        # Trước dòng: nodes = self.metadata_extractor.extract(nodes)
+        print(f"[DEBUG] Số document load được: {len(documents)}")   # nếu có biến documents
+        print(f"[DEBUG] Số node sau khi parse/chunk: {len(nodes)}")  # trước khi vào metadata extractor
         nodes = self.metadata_extractor.extract(nodes)
-        print(len(nodes))
+        print("So luong node metadata: ", len(nodes))
+        print(f"Metadata node đầu tiên: {nodes[0].metadata}")
         print("Xay graph theo may cai mqh da quy dinh")
         graph_index = self.graph_builder.build(nodes)
 

@@ -1,3 +1,4 @@
+from typing import Literal
 POSSIBLE_ENTITIES = [
     "Disease",
     "Symptom",
@@ -13,3 +14,8 @@ POSSIBLE_RELATIONS = [
     "TREATED_BY",
     "AFFECTS",
 ]
+
+
+# Unpack list thành Literal bằng dấu *
+entities = Literal[tuple(POSSIBLE_ENTITIES)]
+relations = Literal[tuple(POSSIBLE_RELATIONS)]

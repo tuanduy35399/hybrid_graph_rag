@@ -1,0 +1,13 @@
+.agent/
+datasets/
+openspec/
+data/state_store.db/
+data/stream_store/
+checkpoints/
+.understand-anything/
+docs/
+*.pt
+.superpowers/
+Train_Full_Pipeline.ipynb
+__pycache__
+.env

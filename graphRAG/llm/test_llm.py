@@ -1,8 +1,8 @@
 from gemini import GeminiLLM
+from nvidia import NvidiaNimLLM
+llm = NvidiaNimLLM()
 
-llm = GeminiLLM()
-
-response = llm.generate(
+response = llm.complete(
     "Giới thiệu ngắn về cây mai vàng."
 )
 
