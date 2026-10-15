@@ -1,0 +1,2864 @@
+[
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "get_default_llm",
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "isExtraImport": true,
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_default_llm",
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "isExtraImport": true,
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_default_llm",
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "isExtraImport": true,
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_default_llm",
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "isExtraImport": true,
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerGenerator",
+        "importPath": "llm.answer_generator",
+        "description": "llm.answer_generator",
+        "isExtraImport": true,
+        "detail": "llm.answer_generator",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerGenerator",
+        "importPath": "llm.answer_generator",
+        "description": "llm.answer_generator",
+        "isExtraImport": true,
+        "detail": "llm.answer_generator",
+        "documentation": {}
+    },
+    {
+        "label": "Retriever",
+        "importPath": "retrieval.retrieve",
+        "description": "retrieval.retrieve",
+        "isExtraImport": true,
+        "detail": "retrieval.retrieve",
+        "documentation": {}
+    },
+    {
+        "label": "Retriever",
+        "importPath": "retrieval.retrieve",
+        "description": "retrieval.retrieve",
+        "isExtraImport": true,
+        "detail": "retrieval.retrieve",
+        "documentation": {}
+    },
+    {
+        "label": "LatencyTracker",
+        "importPath": "retrieval.metrics.latency_tracker",
+        "description": "retrieval.metrics.latency_tracker",
+        "isExtraImport": true,
+        "detail": "retrieval.metrics.latency_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "LatencyTracker",
+        "importPath": "retrieval.metrics.latency_tracker",
+        "description": "retrieval.metrics.latency_tracker",
+        "isExtraImport": true,
+        "detail": "retrieval.metrics.latency_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "LatencyTracker",
+        "importPath": "retrieval.metrics.latency_tracker",
+        "description": "retrieval.metrics.latency_tracker",
+        "isExtraImport": true,
+        "detail": "retrieval.metrics.latency_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "LatencyTracker",
+        "importPath": "retrieval.metrics.latency_tracker",
+        "description": "retrieval.metrics.latency_tracker",
+        "isExtraImport": true,
+        "detail": "retrieval.metrics.latency_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "LatencyTracker",
+        "importPath": "retrieval.metrics.latency_tracker",
+        "description": "retrieval.metrics.latency_tracker",
+        "isExtraImport": true,
+        "detail": "retrieval.metrics.latency_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "BM25Search",
+        "importPath": "retrieval.search.bm25_search",
+        "description": "retrieval.search.bm25_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.bm25_search",
+        "documentation": {}
+    },
+    {
+        "label": "BM25Search",
+        "importPath": "retrieval.search.bm25_search",
+        "description": "retrieval.search.bm25_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.bm25_search",
+        "documentation": {}
+    },
+    {
+        "label": "BM25Search",
+        "importPath": "retrieval.search.bm25_search",
+        "description": "retrieval.search.bm25_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.bm25_search",
+        "documentation": {}
+    },
+    {
+        "label": "BM25Search",
+        "importPath": "retrieval.search.bm25_search",
+        "description": "retrieval.search.bm25_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.bm25_search",
+        "documentation": {}
+    },
+    {
+        "label": "BM25Search",
+        "importPath": "retrieval.search.bm25_search",
+        "description": "retrieval.search.bm25_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.bm25_search",
+        "documentation": {}
+    },
+    {
+        "label": "load_graph_index",
+        "importPath": "database.neo4j_store",
+        "description": "database.neo4j_store",
+        "isExtraImport": true,
+        "detail": "database.neo4j_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_vector_index",
+        "importPath": "database.chroma_store",
+        "description": "database.chroma_store",
+        "isExtraImport": true,
+        "detail": "database.chroma_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_vector_index",
+        "importPath": "database.chroma_store",
+        "description": "database.chroma_store",
+        "isExtraImport": true,
+        "detail": "database.chroma_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_vector_index",
+        "importPath": "database.chroma_store",
+        "description": "database.chroma_store",
+        "isExtraImport": true,
+        "detail": "database.chroma_store",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaVectorStore",
+        "importPath": "llama_index.vector_stores.chroma",
+        "description": "llama_index.vector_stores.chroma",
+        "isExtraImport": true,
+        "detail": "llama_index.vector_stores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaVectorStore",
+        "importPath": "llama_index.vector_stores.chroma",
+        "description": "llama_index.vector_stores.chroma",
+        "isExtraImport": true,
+        "detail": "llama_index.vector_stores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaVectorStore",
+        "importPath": "llama_index.vector_stores.chroma",
+        "description": "llama_index.vector_stores.chroma",
+        "isExtraImport": true,
+        "detail": "llama_index.vector_stores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreIndex",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "StorageContext",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyGraphIndex",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "StorageContext",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreIndex",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "CustomModelEmbedding",
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "isExtraImport": true,
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "CustomModelEmbedding",
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "isExtraImport": true,
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "CustomModelEmbedding",
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "isExtraImport": true,
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "NVIDIAEmbeddingWrapper",
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "isExtraImport": true,
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "CustomModelEmbedding",
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "isExtraImport": true,
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "CustomModelEmbedding",
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "isExtraImport": true,
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "Neo4jPropertyGraphStore",
+        "importPath": "llama_index.graph_stores.neo4j",
+        "description": "llama_index.graph_stores.neo4j",
+        "isExtraImport": true,
+        "detail": "llama_index.graph_stores.neo4j",
+        "documentation": {}
+    },
+    {
+        "label": "Neo4jPropertyGraphStore",
+        "importPath": "llama_index.graph_stores.neo4j",
+        "description": "llama_index.graph_stores.neo4j",
+        "isExtraImport": true,
+        "detail": "llama_index.graph_stores.neo4j",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "BENCHMARK_DATASET",
+        "importPath": "evaluation.dataset",
+        "description": "evaluation.dataset",
+        "isExtraImport": true,
+        "detail": "evaluation.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "_normalize_sample",
+        "importPath": "evaluation.dataset",
+        "description": "evaluation.dataset",
+        "isExtraImport": true,
+        "detail": "evaluation.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset_flexible",
+        "importPath": "evaluation.dataset",
+        "description": "evaluation.dataset",
+        "isExtraImport": true,
+        "detail": "evaluation.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "BENCHMARK_DATASET",
+        "importPath": "evaluation.dataset",
+        "description": "evaluation.dataset",
+        "isExtraImport": true,
+        "detail": "evaluation.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_retrieval_ranking_metrics",
+        "importPath": "evaluation.metrics.retrieval_ranking_metrics",
+        "description": "evaluation.metrics.retrieval_ranking_metrics",
+        "isExtraImport": true,
+        "detail": "evaluation.metrics.retrieval_ranking_metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_claim_groundedness",
+        "importPath": "evaluation.metrics.claim_groundedness",
+        "description": "evaluation.metrics.claim_groundedness",
+        "isExtraImport": true,
+        "detail": "evaluation.metrics.claim_groundedness",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "RagasEvaluator",
+        "importPath": "evaluation.ragas_evaluator",
+        "description": "evaluation.ragas_evaluator",
+        "isExtraImport": true,
+        "detail": "evaluation.ragas_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "RagasEvaluator",
+        "importPath": "evaluation.ragas_evaluator",
+        "description": "evaluation.ragas_evaluator",
+        "isExtraImport": true,
+        "detail": "evaluation.ragas_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "load_production_dataset",
+        "importPath": "evaluation.enhanced_dataset",
+        "description": "evaluation.enhanced_dataset",
+        "isExtraImport": true,
+        "detail": "evaluation.enhanced_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionEvaluator",
+        "importPath": "evaluation.production_evaluator",
+        "description": "evaluation.production_evaluator",
+        "isExtraImport": true,
+        "detail": "evaluation.production_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceEmbedding",
+        "importPath": "llama_index.embeddings.huggingface",
+        "description": "llama_index.embeddings.huggingface",
+        "isExtraImport": true,
+        "detail": "llama_index.embeddings.huggingface",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbedding",
+        "importPath": "llama_index.embeddings.openai",
+        "description": "llama_index.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "llama_index.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyGraphIndex",
+        "importPath": "llama_index.core.indices.property_graph",
+        "description": "llama_index.core.indices.property_graph",
+        "isExtraImport": true,
+        "detail": "llama_index.core.indices.property_graph",
+        "documentation": {}
+    },
+    {
+        "label": "SchemaLLMPathExtractor",
+        "importPath": "llama_index.core.indices.property_graph",
+        "description": "llama_index.core.indices.property_graph",
+        "isExtraImport": true,
+        "detail": "llama_index.core.indices.property_graph",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyGraphIndex",
+        "importPath": "llama_index.core.indices.property_graph",
+        "description": "llama_index.core.indices.property_graph",
+        "isExtraImport": true,
+        "detail": "llama_index.core.indices.property_graph",
+        "documentation": {}
+    },
+    {
+        "label": "entities",
+        "importPath": "indexing.graph.graph_schema",
+        "description": "indexing.graph.graph_schema",
+        "isExtraImport": true,
+        "detail": "indexing.graph.graph_schema",
+        "documentation": {}
+    },
+    {
+        "label": "relations",
+        "importPath": "indexing.graph.graph_schema",
+        "description": "indexing.graph.graph_schema",
+        "isExtraImport": true,
+        "detail": "indexing.graph.graph_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "importPath": "indexing.rate_limit",
+        "description": "indexing.rate_limit",
+        "isExtraImport": true,
+        "detail": "indexing.rate_limit",
+        "documentation": {}
+    },
+    {
+        "label": "TitleExtractor",
+        "importPath": "llama_index.core.extractors",
+        "description": "llama_index.core.extractors",
+        "isExtraImport": true,
+        "detail": "llama_index.core.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "KeywordExtractor",
+        "importPath": "llama_index.core.extractors",
+        "description": "llama_index.core.extractors",
+        "isExtraImport": true,
+        "detail": "llama_index.core.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryExtractor",
+        "importPath": "llama_index.core.extractors",
+        "description": "llama_index.core.extractors",
+        "isExtraImport": true,
+        "detail": "llama_index.core.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "IngestionPipeline",
+        "importPath": "llama_index.core.ingestion",
+        "description": "llama_index.core.ingestion",
+        "isExtraImport": true,
+        "detail": "llama_index.core.ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "IngestionCache",
+        "importPath": "llama_index.core.ingestion",
+        "description": "llama_index.core.ingestion",
+        "isExtraImport": true,
+        "detail": "llama_index.core.ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleKVStore",
+        "importPath": "llama_index.core.storage.kvstore",
+        "description": "llama_index.core.storage.kvstore",
+        "isExtraImport": true,
+        "detail": "llama_index.core.storage.kvstore",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "BaseNode",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "TextNode",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "BaseNode",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "BaseNode",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "NodeWithScore",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "TextNode",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "NodeWithScore",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "TextNode",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "NodeWithScore",
+        "importPath": "llama_index.core.schema",
+        "description": "llama_index.core.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownNodeParser",
+        "importPath": "llama_index.core.node_parser",
+        "description": "llama_index.core.node_parser",
+        "isExtraImport": true,
+        "detail": "llama_index.core.node_parser",
+        "documentation": {}
+    },
+    {
+        "label": "SemanticSplitterNodeParser",
+        "importPath": "llama_index.core.node_parser",
+        "description": "llama_index.core.node_parser",
+        "isExtraImport": true,
+        "detail": "llama_index.core.node_parser",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownLoader",
+        "importPath": "ingestion.loader.load_markdown",
+        "description": "ingestion.loader.load_markdown",
+        "isExtraImport": true,
+        "detail": "ingestion.loader.load_markdown",
+        "documentation": {}
+    },
+    {
+        "label": "TextCleaner",
+        "importPath": "ingestion.processes.clean_text",
+        "description": "ingestion.processes.clean_text",
+        "isExtraImport": true,
+        "detail": "ingestion.processes.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "TextCleaner",
+        "importPath": "ingestion.processes.clean_text",
+        "description": "ingestion.processes.clean_text",
+        "isExtraImport": true,
+        "detail": "ingestion.processes.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "TextNormalizer",
+        "importPath": "ingestion.processes.normalize",
+        "description": "ingestion.processes.normalize",
+        "isExtraImport": true,
+        "detail": "ingestion.processes.normalize",
+        "documentation": {}
+    },
+    {
+        "label": "TextNormalizer",
+        "importPath": "ingestion.processes.normalize",
+        "description": "ingestion.processes.normalize",
+        "isExtraImport": true,
+        "detail": "ingestion.processes.normalize",
+        "documentation": {}
+    },
+    {
+        "label": "LegalStructureAwareParser",
+        "importPath": "indexing.parser.legal_parser",
+        "description": "indexing.parser.legal_parser",
+        "isExtraImport": true,
+        "detail": "indexing.parser.legal_parser",
+        "documentation": {}
+    },
+    {
+        "label": "GraphBuilder",
+        "importPath": "indexing.graph.graph_builder",
+        "description": "indexing.graph.graph_builder",
+        "isExtraImport": true,
+        "detail": "indexing.graph.graph_builder",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaStore",
+        "importPath": "indexing.vector.chroma",
+        "description": "indexing.vector.chroma",
+        "isExtraImport": true,
+        "detail": "indexing.vector.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "GraphStore",
+        "importPath": "indexing.graph.graph_store",
+        "description": "indexing.graph.graph_store",
+        "isExtraImport": true,
+        "detail": "indexing.graph.graph_store",
+        "documentation": {}
+    },
+    {
+        "label": "Semaphore",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "unicodedata",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "NvidiaNimLLM",
+        "importPath": "llm.nvidia",
+        "description": "llm.nvidia",
+        "isExtraImport": true,
+        "detail": "llm.nvidia",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "isExtraImport": true,
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "build_prompt",
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "isExtraImport": true,
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "HYDE_PROMPT",
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "isExtraImport": true,
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "QUERY_REWRITE_PROMPT",
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "isExtraImport": true,
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAILike",
+        "importPath": "llama_index.llms.openai_like",
+        "description": "llama_index.llms.openai_like",
+        "isExtraImport": true,
+        "detail": "llama_index.llms.openai_like",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAILike",
+        "importPath": "llama_index.llms.openai_like",
+        "description": "llama_index.llms.openai_like",
+        "isExtraImport": true,
+        "detail": "llama_index.llms.openai_like",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAILike",
+        "importPath": "llama_index.llms.openai_like",
+        "description": "llama_index.llms.openai_like",
+        "isExtraImport": true,
+        "detail": "llama_index.llms.openai_like",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticProgramMode",
+        "importPath": "llama_index.core.types",
+        "description": "llama_index.core.types",
+        "isExtraImport": true,
+        "detail": "llama_index.core.types",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticProgramMode",
+        "importPath": "llama_index.core.types",
+        "description": "llama_index.core.types",
+        "isExtraImport": true,
+        "detail": "llama_index.core.types",
+        "documentation": {}
+    },
+    {
+        "label": "genai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "CustomLLM",
+        "importPath": "llama_index.core.llms.custom",
+        "description": "llama_index.core.llms.custom",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms.custom",
+        "documentation": {}
+    },
+    {
+        "label": "CompletionResponse",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "LLMMetadata",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "Ollama",
+        "importPath": "llama_index.llms.ollama",
+        "description": "llama_index.llms.ollama",
+        "isExtraImport": true,
+        "detail": "llama_index.llms.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "ChatResponse",
+        "importPath": "llama_index.core.base.llms.types",
+        "description": "llama_index.core.base.llms.types",
+        "isExtraImport": true,
+        "detail": "llama_index.core.base.llms.types",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessage",
+        "importPath": "llama_index.core.base.llms.types",
+        "description": "llama_index.core.base.llms.types",
+        "isExtraImport": true,
+        "detail": "llama_index.core.base.llms.types",
+        "documentation": {}
+    },
+    {
+        "label": "MessageRole",
+        "importPath": "llama_index.core.base.llms.types",
+        "description": "llama_index.core.base.llms.types",
+        "isExtraImport": true,
+        "detail": "llama_index.core.base.llms.types",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiLLM",
+        "importPath": "gemini",
+        "description": "gemini",
+        "isExtraImport": true,
+        "detail": "gemini",
+        "documentation": {}
+    },
+    {
+        "label": "NvidiaNimLLM",
+        "importPath": "nvidia",
+        "description": "nvidia",
+        "isExtraImport": true,
+        "detail": "nvidia",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "CrossEncoder",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRewrite",
+        "importPath": "retrieval.rewrite.query_rewrite",
+        "description": "retrieval.rewrite.query_rewrite",
+        "isExtraImport": true,
+        "detail": "retrieval.rewrite.query_rewrite",
+        "documentation": {}
+    },
+    {
+        "label": "HyDE",
+        "importPath": "retrieval.rewrite.hyde",
+        "description": "retrieval.rewrite.hyde",
+        "isExtraImport": true,
+        "detail": "retrieval.rewrite.hyde",
+        "documentation": {}
+    },
+    {
+        "label": "VectorSearch",
+        "importPath": "retrieval.search.vector_search",
+        "description": "retrieval.search.vector_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.vector_search",
+        "documentation": {}
+    },
+    {
+        "label": "GraphSearch",
+        "importPath": "retrieval.search.graph_search",
+        "description": "retrieval.search.graph_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.graph_search",
+        "documentation": {}
+    },
+    {
+        "label": "HybridSearch",
+        "importPath": "retrieval.search.hybrid_search",
+        "description": "retrieval.search.hybrid_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.hybrid_search",
+        "documentation": {}
+    },
+    {
+        "label": "HybridSearch",
+        "importPath": "retrieval.search.hybrid_search",
+        "description": "retrieval.search.hybrid_search",
+        "isExtraImport": true,
+        "detail": "retrieval.search.hybrid_search",
+        "documentation": {}
+    },
+    {
+        "label": "CrossEncoderReranker",
+        "importPath": "retrieval.reranker.bge_reranker",
+        "description": "retrieval.reranker.bge_reranker",
+        "isExtraImport": true,
+        "detail": "retrieval.reranker.bge_reranker",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "GraphDatabase",
+        "importPath": "neo4j",
+        "description": "neo4j",
+        "isExtraImport": true,
+        "detail": "neo4j",
+        "documentation": {}
+    },
+    {
+        "label": "BuildIndex",
+        "importPath": "indexing.build_index",
+        "description": "indexing.build_index",
+        "isExtraImport": true,
+        "detail": "indexing.build_index",
+        "documentation": {}
+    },
+    {
+        "label": "ChatRequest",
+        "kind": 6,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "class ChatRequest(BaseModel):\n    question: str\nclass CitationItem(BaseModel):\n    index: int\n    doc_title: str\n    doc_code: str\n    article: str\n    chapter: Optional[str] = \"\"\n    score: Optional[float] = None\n    snippet: str",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "CitationItem",
+        "kind": 6,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "class CitationItem(BaseModel):\n    index: int\n    doc_title: str\n    doc_code: str\n    article: str\n    chapter: Optional[str] = \"\"\n    score: Optional[float] = None\n    snippet: str\nclass ChatResponse(BaseModel):\n    answer: str",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "ChatResponse",
+        "kind": 6,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "class ChatResponse(BaseModel):\n    answer: str\n    latencies: Optional[Dict[str, float]] = None\n    citations: Optional[List[CitationItem]] = None\n    retrieved_contexts: Optional[List[str]] = None\n@app.get(\"/\")\ndef root():\n    return {\n        \"status\": \"online\",\n        \"system\": \"Vietnam Legal HybridRAG Assistant\",",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "def root():\n    return {\n        \"status\": \"online\",\n        \"system\": \"Vietnam Legal HybridRAG Assistant\",\n        \"version\": \"2.0\",\n        \"channels\": {\n            \"dense_vector\": vector_index is not None,\n            \"sparse_bm25\": bm25_search.corpus_size > 0,\n            \"knowledge_graph\": graph_index is not None,\n        }",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "kind": 2,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "def chat(request: ChatRequest):\n    tracker = LatencyTracker()\n    # 1. Truy xuất ngữ cảnh đa kênh chuẩn HybridRAG\n    contexts = retriever.retrieve(request.question, tracker=tracker)\n    # 2. Sinh câu trả lời kèm căn cứ pháp lý\n    answer = generator.generate(\n        question=request.question,\n        contexts=contexts,\n        tracker=tracker\n    )",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "llm = get_default_llm()\n# 2. Khởi tạo Vector Index (ChromaDB)\ntry:\n    vector_index = load_vector_index()\n    print(\"[INIT] Nạp Vector Index từ ChromaDB thành công.\")\nexcept Exception as e:\n    print(f\"[CẢNH BÁO] Không thể nạp Vector Index: {e}\")\n    vector_index = None\n# 3. Khởi tạo Graph Index (Neo4j) với cơ chế bảo vệ (fallback an toàn nếu Neo4j offline)\ntry:",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "bm25_search",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "bm25_search = BM25Search(cache_path=\"./database/bm25_index.pkl\")\nif bm25_search.corpus_size > 0:\n    print(f\"[INIT] Nạp BM25 Index thành công ({bm25_search.corpus_size} chunks).\")\nelse:\n    print(\"[CẢNH BÁO] Chưa tìm thấy file BM25 cache. BM25 Search sẽ được xây dựng tự động khi chạy offline phase.\")\n# 5. Khởi tạo Retriever đa kênh\nretriever = Retriever(\n    llm=llm,\n    vector_index=vector_index,\n    graph_index=graph_index,",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "retriever = Retriever(\n    llm=llm,\n    vector_index=vector_index,\n    graph_index=graph_index,\n    bm25_search=bm25_search if bm25_search.corpus_size > 0 else None,\n    top_k=5\n)\n# 6. Khởi tạo Answer Generator\ngenerator = AnswerGenerator(llm=llm)\napp = FastAPI(",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "generator",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "generator = AnswerGenerator(llm=llm)\napp = FastAPI(\n    title=\"Vietnam Legal HybridRAG API\",\n    description=\"API hỏi đáp & tra cứu quy phạm pháp luật Việt Nam (An ninh mạng, Trí tuệ nhân tạo, Dữ liệu cá nhân) theo kiến trúc chuẩn HybridRAG (Dense Vector + Sparse BM25 + Knowledge Graph) tích hợp đo độ trễ và trích dẫn căn cứ pháp lý.\",\n    version=\"2.0\"\n)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Vietnam Legal HybridRAG API\",\n    description=\"API hỏi đáp & tra cứu quy phạm pháp luật Việt Nam (An ninh mạng, Trí tuệ nhân tạo, Dữ liệu cá nhân) theo kiến trúc chuẩn HybridRAG (Dense Vector + Sparse BM25 + Knowledge Graph) tích hợp đo độ trễ và trích dẫn căn cứ pháp lý.\",\n    version=\"2.0\"\n)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaStore",
+        "kind": 6,
+        "importPath": "database.chroma_store",
+        "description": "database.chroma_store",
+        "peekOfCode": "class ChromaStore:\n    \"\"\"Dùng cho quá trình build index\"\"\"\n    def __init__(\n        self,\n        db_path: str = DEFAULT_CHROMA_PATH,\n        collection_name: str = DEFAULT_COLLECTION\n    ):\n        self.client = chromadb.PersistentClient(path=db_path)\n        self.collection = self.client.get_or_create_collection(name=collection_name)\n        self.vector_store = ChromaVectorStore(chroma_collection=self.collection)",
+        "detail": "database.chroma_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_vector_index",
+        "kind": 2,
+        "importPath": "database.chroma_store",
+        "description": "database.chroma_store",
+        "peekOfCode": "def load_vector_index(\n    db_path: str = DEFAULT_CHROMA_PATH,\n    collection_name: str = DEFAULT_COLLECTION\n):\n    \"\"\"\n    Load Vector Index từ ChromaDB.\n    Tự động nhận diện collection có số chiều phù hợp với Embedding Model hiện tại (OpenAI 3072 dims).\n    \"\"\"\n    embed_model = CustomModelEmbedding().get_model()\n    Settings.embed_model = embed_model",
+        "detail": "database.chroma_store",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CHROMA_PATH",
+        "kind": 5,
+        "importPath": "database.chroma_store",
+        "description": "database.chroma_store",
+        "peekOfCode": "DEFAULT_CHROMA_PATH = os.getenv(\"CHROMA_DB_PATH\", \"./database/chroma_db\")\nDEFAULT_COLLECTION = os.getenv(\"CHROMA_COLLECTION\", \"legal_corpus\")\nclass ChromaStore:\n    \"\"\"Dùng cho quá trình build index\"\"\"\n    def __init__(\n        self,\n        db_path: str = DEFAULT_CHROMA_PATH,\n        collection_name: str = DEFAULT_COLLECTION\n    ):\n        self.client = chromadb.PersistentClient(path=db_path)",
+        "detail": "database.chroma_store",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_COLLECTION",
+        "kind": 5,
+        "importPath": "database.chroma_store",
+        "description": "database.chroma_store",
+        "peekOfCode": "DEFAULT_COLLECTION = os.getenv(\"CHROMA_COLLECTION\", \"legal_corpus\")\nclass ChromaStore:\n    \"\"\"Dùng cho quá trình build index\"\"\"\n    def __init__(\n        self,\n        db_path: str = DEFAULT_CHROMA_PATH,\n        collection_name: str = DEFAULT_COLLECTION\n    ):\n        self.client = chromadb.PersistentClient(path=db_path)\n        self.collection = self.client.get_or_create_collection(name=collection_name)",
+        "detail": "database.chroma_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_neo4j_graph_store",
+        "kind": 2,
+        "importPath": "database.neo4j_store",
+        "description": "database.neo4j_store",
+        "peekOfCode": "def get_neo4j_graph_store():\n    \"\"\"Kết nối Neo4j\"\"\"\n    return Neo4jPropertyGraphStore(\n        url=os.getenv(\"NEO4J_URI\"),\n        username=os.getenv(\"NEO4J_USERNAME\"),\n        password=os.getenv(\"NEO4J_PASSWORD\"),\n        database=\"neo4j\"\n    )\ndef load_graph_index():\n    \"\"\"Load PropertyGraphIndex từ Neo4j\"\"\"",
+        "detail": "database.neo4j_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_graph_index",
+        "kind": 2,
+        "importPath": "database.neo4j_store",
+        "description": "database.neo4j_store",
+        "peekOfCode": "def load_graph_index():\n    \"\"\"Load PropertyGraphIndex từ Neo4j\"\"\"\n    graph_store = get_neo4j_graph_store()\n    # Khởi tạo embedding model thống nhất từ custom_model_embedding\n    embed_model = CustomModelEmbedding().get_model()\n    Settings.embed_model = embed_model\n    # Load index đã build trước đó\n    index = PropertyGraphIndex.from_existing(\n        property_graph_store=graph_store,\n        embed_model=embed_model,",
+        "detail": "database.neo4j_store",
+        "documentation": {}
+    },
+    {
+        "label": "decompose_into_atomic_claims",
+        "kind": 2,
+        "importPath": "evaluation.metrics.claim_groundedness",
+        "description": "evaluation.metrics.claim_groundedness",
+        "peekOfCode": "def decompose_into_atomic_claims(text: str) -> List[str]:\n    \"\"\"\n    Tách đoạn văn bản thành các câu/mệnh đề độc lập (Atomic Claims).\n    Xử lý danh sách gạch đầu dòng, dấu chấm câu, liên từ đẳng lập.\n    \"\"\"\n    if not text:\n        return []\n    # Chuẩn hóa các dấu xuống dòng và dấu phân cách câu\n    raw_lines = text.replace(\"\\r\\n\", \"\\n\").split(\"\\n\")\n    sentences = []",
+        "detail": "evaluation.metrics.claim_groundedness",
+        "documentation": {}
+    },
+    {
+        "label": "verify_claim_against_context",
+        "kind": 2,
+        "importPath": "evaluation.metrics.claim_groundedness",
+        "description": "evaluation.metrics.claim_groundedness",
+        "peekOfCode": "def verify_claim_against_context(\n    claim: str,\n    context_text: str,\n    critical_keywords: Optional[List[str]] = None\n) -> Dict[str, Any]:\n    \"\"\"\n    Xác minh 1 claim có được hỗ trợ bởi context hay không.\n    Kiểm tra cả việc claim có chứa thông tin nguy hiểm (Critical Error) không.\n    \"\"\"\n    claim_lower = claim.lower()",
+        "detail": "evaluation.metrics.claim_groundedness",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_claim_groundedness",
+        "kind": 2,
+        "importPath": "evaluation.metrics.claim_groundedness",
+        "description": "evaluation.metrics.claim_groundedness",
+        "peekOfCode": "def evaluate_claim_groundedness(\n    answer: str,\n    retrieved_contexts: List[str]\n) -> Dict[str, Any]:\n    \"\"\"\n    Đánh giá độ trung thực (Groundedness) ở cấp độ từng mệnh đề (Claim-level)\n    theo chuẩn Chapter 6.1.1 của Lamhot Siagian.\n    Returns:\n        {\n            \"groundedness_score\": float (0.0 - 1.0),",
+        "detail": "evaluation.metrics.claim_groundedness",
+        "documentation": {}
+    },
+    {
+        "label": "compute_binary_relevance",
+        "kind": 2,
+        "importPath": "evaluation.metrics.retrieval_ranking_metrics",
+        "description": "evaluation.metrics.retrieval_ranking_metrics",
+        "peekOfCode": "def compute_binary_relevance(\n    retrieved_chunk: Dict[str, Any],\n    gold_evidence_list: List[Dict[str, Any]],\n    text_overlap_threshold: float = 0.65\n) -> int:\n    \"\"\"\n    Xác định một chunk truy xuất được có liên quan (relevant = 1) hay không (0).\n    So khớp theo 2 tầng:\n    1. Chunk ID / Source matching (nếu có định danh)\n    2. Exact substring hoặc Jaccard character-trigram containment matching",
+        "detail": "evaluation.metrics.retrieval_ranking_metrics",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_retrieval_ranking_metrics",
+        "kind": 2,
+        "importPath": "evaluation.metrics.retrieval_ranking_metrics",
+        "description": "evaluation.metrics.retrieval_ranking_metrics",
+        "peekOfCode": "def calculate_retrieval_ranking_metrics(\n    retrieved_items: List[Dict[str, Any]],\n    gold_evidence_list: List[Dict[str, Any]],\n    k_list: List[int] = [1, 3, 5]\n) -> Dict[str, float]:\n    \"\"\"\n    Tính toán chi tiết các metric xếp hạng cho một query đơn lẻ.\n    Args:\n        retrieved_items: Danh sách các chunk/node được hệ thống trả về theo thứ tự rank.\n        gold_evidence_list: Danh sách các chunk chuẩn (gold context) thực tế.",
+        "detail": "evaluation.metrics.retrieval_ranking_metrics",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset_flexible",
+        "kind": 2,
+        "importPath": "evaluation.dataset",
+        "description": "evaluation.dataset",
+        "peekOfCode": "def load_dataset_flexible(file_path: Optional[str] = None) -> List[Dict[str, Any]]:\n    \"\"\"\n    Nạp bộ dữ liệu đánh giá linh hoạt từ file .jsonl hoặc .json.\n    - Ưu tiên file_path truyền vào.\n    - Tự động kiểm tra file questions trong thư mục kag/solver/data/questions.json hoặc pilot.jsonl.\n    - Mặc định dùng BENCHMARK_DATASET pháp lý.\n    \"\"\"\n    target_path = None\n    candidate_paths = []\n    if file_path:",
+        "detail": "evaluation.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "evaluation.dataset",
+        "description": "evaluation.dataset",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\n# Bộ dữ liệu benchmark chuẩn cho bài toán Trợ lý Pháp lý Việt Nam (An ninh mạng, AI, Dữ liệu cá nhân)\nBENCHMARK_DATASET = [\n    {\n        \"case_id\": \"legal_ai_deepfake_01\",\n        \"user_input\": \"Dùng AI dựng lại khuôn mặt và giọng nói của người khác để qua bước xác thực tài khoản ngân hàng thì bị phạt bao nhiêu tiền và theo quy định nào?\",\n        \"reference\": (\n            \"Hành vi sử dụng trí tuệ nhân tạo để giả mạo, tái tạo khuôn mặt, giọng nói của người khác nhằm vượt qua xác thực \"\n            \"tài khoản ngân hàng là hành vi vi phạm nghiêm trọng về an ninh mạng và bảo vệ dữ liệu cá nhân. \"\n            \"Theo quy định tại Điều 34 Nghị định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng (hoặc các quy định liên quan \"",
+        "detail": "evaluation.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "BENCHMARK_DATASET",
+        "kind": 5,
+        "importPath": "evaluation.dataset",
+        "description": "evaluation.dataset",
+        "peekOfCode": "BENCHMARK_DATASET = [\n    {\n        \"case_id\": \"legal_ai_deepfake_01\",\n        \"user_input\": \"Dùng AI dựng lại khuôn mặt và giọng nói của người khác để qua bước xác thực tài khoản ngân hàng thì bị phạt bao nhiêu tiền và theo quy định nào?\",\n        \"reference\": (\n            \"Hành vi sử dụng trí tuệ nhân tạo để giả mạo, tái tạo khuôn mặt, giọng nói của người khác nhằm vượt qua xác thực \"\n            \"tài khoản ngân hàng là hành vi vi phạm nghiêm trọng về an ninh mạng và bảo vệ dữ liệu cá nhân. \"\n            \"Theo quy định tại Điều 34 Nghị định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng (hoặc các quy định liên quan \"\n            \"về mạo danh trên không gian mạng), mức phạt tiền đối với cá nhân thực hiện hành vi này thường từ 30.000.000 đồng đến 50.000.000 đồng, \"\n            \"đồng thời có thể bị truy cứu trách nhiệm hình sự nếu cấu thành tội phạm lừa đảo chiếm đoạt tài sản.\"",
+        "detail": "evaluation.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "load_enhanced_benchmark",
+        "kind": 2,
+        "importPath": "evaluation.enhanced_dataset",
+        "description": "evaluation.enhanced_dataset",
+        "peekOfCode": "def load_enhanced_benchmark(\n    include_abstention: bool = True,\n    file_path: str = None\n) -> List[Dict[str, Any]]:\n    \"\"\"Nạp tập benchmark chuẩn hóa kết hợp giữa các ca hỏi đáp thực tế và ca kiểm thử an toàn/từ chối.\"\"\"\n    from evaluation.dataset import load_dataset_flexible\n    standard_cases = load_dataset_flexible(file_path)\n    # Gán risk_tier cho các case chuẩn nếu chưa có\n    for c in standard_cases:\n        if \"risk_tier\" not in c:",
+        "detail": "evaluation.enhanced_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "evaluation.enhanced_dataset",
+        "description": "evaluation.enhanced_dataset",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\n# Các ca kiểm thử Abstention / Negative Testing chuẩn Pháp lý\nLEGAL_ABSTENTION_BENCHMARK_CASES = [\n    {\n        \"case_id\": \"abs_legal_cooking_01\",\n        \"user_input\": \"Hướng dẫn cách nấu món phở bò Nam Định chuẩn vị truyền thống?\",\n        \"reference_answer\": \"Hệ thống là Trợ lý Pháp lý chuyên về Luật An ninh mạng, Trí tuệ nhân tạo và Bảo vệ dữ liệu cá nhân Việt Nam, không có dữ liệu về công thức nấu ăn. Xin phép từ chối trả lời ngoài phạm vi.\",\n        \"reference_contexts\": [],\n        \"gold_evidence\": [],\n        \"intent_family\": \"abstention_out_of_domain\",",
+        "detail": "evaluation.enhanced_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "LEGAL_ABSTENTION_BENCHMARK_CASES",
+        "kind": 5,
+        "importPath": "evaluation.enhanced_dataset",
+        "description": "evaluation.enhanced_dataset",
+        "peekOfCode": "LEGAL_ABSTENTION_BENCHMARK_CASES = [\n    {\n        \"case_id\": \"abs_legal_cooking_01\",\n        \"user_input\": \"Hướng dẫn cách nấu món phở bò Nam Định chuẩn vị truyền thống?\",\n        \"reference_answer\": \"Hệ thống là Trợ lý Pháp lý chuyên về Luật An ninh mạng, Trí tuệ nhân tạo và Bảo vệ dữ liệu cá nhân Việt Nam, không có dữ liệu về công thức nấu ăn. Xin phép từ chối trả lời ngoài phạm vi.\",\n        \"reference_contexts\": [],\n        \"gold_evidence\": [],\n        \"intent_family\": \"abstention_out_of_domain\",\n        \"risk_tier\": \"low\",\n        \"is_abstention\": True,",
+        "detail": "evaluation.enhanced_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "find_chrome_executable",
+        "kind": 2,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "def find_chrome_executable() -> str:\n    for p in CHROME_PATHS:\n        if os.path.exists(p):\n            return p\n    raise FileNotFoundError(\"Không tìm thấy Google Chrome tại các đường dẫn mặc định.\")\ndef build_html_report(data: dict) -> str:\n    ret = data.get(\"overall_retrieval\", {})\n    gen = data.get(\"overall_generation\", {})\n    latency = data.get(\"latency_summary\", {})\n    gates = data.get(\"quality_gates\", {})",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "build_html_report",
+        "kind": 2,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "def build_html_report(data: dict) -> str:\n    ret = data.get(\"overall_retrieval\", {})\n    gen = data.get(\"overall_generation\", {})\n    latency = data.get(\"latency_summary\", {})\n    gates = data.get(\"quality_gates\", {})\n    risk_breakdown = data.get(\"risk_tier_breakdown\", {})\n    intent_breakdown = data.get(\"intent_family_breakdown\", {})\n    cases = data.get(\"individual_cases\", [])\n    total_cases = data.get(\"total_cases\", len(cases))\n    # Tạo bảng Quality Gates",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "generate_pdf_report",
+        "kind": 2,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "def generate_pdf_report():\n    print(\"=\" * 80)\n    print(\"   BẮT ĐẦU QUY TRÌNH XUẤT BÁO CÁO PDF CHUẨN CHUYÊN GIA RAG\")\n    print(\"=\" * 80)\n    if not RESULTS_JSON_PATH.exists():\n        print(f\"[LỖI] Không tìm thấy kết quả benchmark tại: {RESULTS_JSON_PATH}\")\n        return False\n    print(f\"\\n[1/3] Đang nạp dữ liệu kết quả từ: {RESULTS_JSON_PATH}...\")\n    with open(RESULTS_JSON_PATH, \"r\", encoding=\"utf-8\") as f:\n        data = json.load(f)",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\nRESULTS_JSON_PATH = PROJECT_ROOT / \"evaluation\" / \"production_eval_results.json\"\nREPORT_HTML_PATH = PROJECT_ROOT / \"evaluation\" / \"report_temp.html\"\nREPORT_PDF_PATH = PROJECT_ROOT / \"RAG_Production_Evaluation_Report.pdf\"\nCHROME_PATHS = [\n    r\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\",\n    r\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\",\n    os.path.expandvars(r\"%LOCALAPPDATA%\\Google\\Chrome\\Application\\chrome.exe\")\n]\ndef find_chrome_executable() -> str:",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "RESULTS_JSON_PATH",
+        "kind": 5,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "RESULTS_JSON_PATH = PROJECT_ROOT / \"evaluation\" / \"production_eval_results.json\"\nREPORT_HTML_PATH = PROJECT_ROOT / \"evaluation\" / \"report_temp.html\"\nREPORT_PDF_PATH = PROJECT_ROOT / \"RAG_Production_Evaluation_Report.pdf\"\nCHROME_PATHS = [\n    r\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\",\n    r\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\",\n    os.path.expandvars(r\"%LOCALAPPDATA%\\Google\\Chrome\\Application\\chrome.exe\")\n]\ndef find_chrome_executable() -> str:\n    for p in CHROME_PATHS:",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "REPORT_HTML_PATH",
+        "kind": 5,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "REPORT_HTML_PATH = PROJECT_ROOT / \"evaluation\" / \"report_temp.html\"\nREPORT_PDF_PATH = PROJECT_ROOT / \"RAG_Production_Evaluation_Report.pdf\"\nCHROME_PATHS = [\n    r\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\",\n    r\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\",\n    os.path.expandvars(r\"%LOCALAPPDATA%\\Google\\Chrome\\Application\\chrome.exe\")\n]\ndef find_chrome_executable() -> str:\n    for p in CHROME_PATHS:\n        if os.path.exists(p):",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "REPORT_PDF_PATH",
+        "kind": 5,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "REPORT_PDF_PATH = PROJECT_ROOT / \"RAG_Production_Evaluation_Report.pdf\"\nCHROME_PATHS = [\n    r\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\",\n    r\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\",\n    os.path.expandvars(r\"%LOCALAPPDATA%\\Google\\Chrome\\Application\\chrome.exe\")\n]\ndef find_chrome_executable() -> str:\n    for p in CHROME_PATHS:\n        if os.path.exists(p):\n            return p",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "CHROME_PATHS",
+        "kind": 5,
+        "importPath": "evaluation.generate_pdf_report",
+        "description": "evaluation.generate_pdf_report",
+        "peekOfCode": "CHROME_PATHS = [\n    r\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\",\n    r\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\",\n    os.path.expandvars(r\"%LOCALAPPDATA%\\Google\\Chrome\\Application\\chrome.exe\")\n]\ndef find_chrome_executable() -> str:\n    for p in CHROME_PATHS:\n        if os.path.exists(p):\n            return p\n    raise FileNotFoundError(\"Không tìm thấy Google Chrome tại các đường dẫn mặc định.\")",
+        "detail": "evaluation.generate_pdf_report",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionEvaluator",
+        "kind": 6,
+        "importPath": "evaluation.production_evaluator",
+        "description": "evaluation.production_evaluator",
+        "peekOfCode": "class ProductionEvaluator:\n    \"\"\"\n    Bộ đánh giá cấp Production toàn diện theo kiến trúc của Lamhot Siagian.\n    \"\"\"\n    def __init__(self, quality_gate_config: Optional[Dict[str, float]] = None):\n        # Thiết lập ngưỡng Quality Gate mặc định (Chapter 8 & Appendix E.5)\n        self.quality_gates = quality_gate_config or {\n            \"hit_at_3_min\": 0.85,\n            \"mrr_min\": 0.70,\n            \"ndcg_at_5_min\": 0.75,",
+        "detail": "evaluation.production_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "grade_answer_relevance_rubric",
+        "kind": 2,
+        "importPath": "evaluation.production_evaluator",
+        "description": "evaluation.production_evaluator",
+        "peekOfCode": "def grade_answer_relevance_rubric(\n    question: str,\n    answer: str,\n    reference_answer: str,\n    is_abstention: bool = False\n) -> Dict[str, Any]:\n    \"\"\"\n    Chấm điểm theo thang đo Likert 1-5 Relevance Rubric chuẩn Chapter 4.2 & 5.1.\n    Thang điểm:\n    5 (Xuất sắc): Trả lời đúng trọng tâm, giải quyết hoàn toàn câu hỏi, khớp ý reference.",
+        "detail": "evaluation.production_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "RagasEvaluator",
+        "kind": 6,
+        "importPath": "evaluation.ragas_evaluator",
+        "description": "evaluation.ragas_evaluator",
+        "peekOfCode": "class RagasEvaluator:\n    \"\"\"\n    Module đánh giá chất lượng RAG:\n    - Tích hợp framework Ragas (Faithfulness, Answer Relevancy, Context Precision, Context Recall)\n    - Hỗ trợ cấu hình LLM & Embeddings tùy biến theo hệ thống hiện tại\n    - Đi kèm Fallback Evaluator (LLM Judge / Semantic Match) bảo đảm chạy được trong mọi điều kiện\n    \"\"\"\n    def __init__(self, llm=None, embed_model=None):\n        self.llm = llm\n        self.embed_model = embed_model",
+        "detail": "evaluation.ragas_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_percentile",
+        "kind": 2,
+        "importPath": "evaluation.run_evaluation",
+        "description": "evaluation.run_evaluation",
+        "peekOfCode": "def calculate_percentile(data, percentile):\n    if not data:\n        return 0.0\n    sorted_data = sorted(data)\n    idx = int(len(sorted_data) * (percentile / 100.0))\n    idx = min(idx, len(sorted_data) - 1)\n    return sorted_data[idx]\ndef run_evaluation(dataset_path: str = None, num_samples: int = None, use_mock: bool = False):\n    print(\"=\" * 70)\n    print(\"   CHƯƠNG TRÌNH ĐÁNH GIÁ HỆ THỐNG GRAPHRAG CÂY MAI VÀNG\")",
+        "detail": "evaluation.run_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "run_evaluation",
+        "kind": 2,
+        "importPath": "evaluation.run_evaluation",
+        "description": "evaluation.run_evaluation",
+        "peekOfCode": "def run_evaluation(dataset_path: str = None, num_samples: int = None, use_mock: bool = False):\n    print(\"=\" * 70)\n    print(\"   CHƯƠNG TRÌNH ĐÁNH GIÁ HỆ THỐNG GRAPHRAG CÂY MAI VÀNG\")\n    print(\"   (ĐO LƯỜNG TỐC ĐỘ GIAI ĐOẠN & CHẤT LƯỢNG VỚI RAGAS)\")\n    print(\"=\" * 70)\n    # Nạp dữ liệu linh hoạt (ưu tiên file chỉ định hoặc pilot.jsonl)\n    dataset = load_dataset_flexible(dataset_path)\n    if num_samples is not None and num_samples > 0:\n        dataset = dataset[:num_samples]\n    print(f\"\\n[INFO] Số lượng mẫu đánh giá thực tế: {len(dataset)}\")",
+        "detail": "evaluation.run_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "evaluation.run_evaluation",
+        "description": "evaluation.run_evaluation",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\nsys.path.insert(0, str(PROJECT_ROOT))\n# Đảm bảo in tiếng Việt trên console Windows không bị lỗi bảng mã\nif sys.platform == \"win32\" and hasattr(sys.stdout, \"buffer\"):\n    import io\n    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding=\"utf-8\", errors=\"replace\")\n    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding=\"utf-8\", errors=\"replace\")\nfrom evaluation.dataset import load_dataset_flexible\nfrom evaluation.ragas_evaluator import RagasEvaluator\nfrom retrieval.metrics.latency_tracker import LatencyTracker",
+        "detail": "evaluation.run_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_percentile",
+        "kind": 2,
+        "importPath": "evaluation.run_production_evaluation",
+        "description": "evaluation.run_production_evaluation",
+        "peekOfCode": "def calculate_percentile(data: List[float], percentile: float) -> float:\n    if not data:\n        return 0.0\n    sorted_data = sorted(data)\n    idx = int(len(sorted_data) * (percentile / 100.0))\n    idx = min(idx, len(sorted_data) - 1)\n    return sorted_data[idx]\ndef run_production_benchmark():\n    print(\"=\" * 80)\n    print(\"      HỆ THỐNG ĐÁNH GIÁ CHẤT LƯỢNG RAG CHUẨN PRODUCTION\")",
+        "detail": "evaluation.run_production_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "run_production_benchmark",
+        "kind": 2,
+        "importPath": "evaluation.run_production_evaluation",
+        "description": "evaluation.run_production_evaluation",
+        "peekOfCode": "def run_production_benchmark():\n    print(\"=\" * 80)\n    print(\"      HỆ THỐNG ĐÁNH GIÁ CHẤT LƯỢNG RAG CHUẨN PRODUCTION\")\n    print(\"      Tuân thủ sách 'RAG Evaluation & Testing in Production' (Lamhot Siagian, 2026)\")\n    print(\"=\" * 80)\n    # 1. Nạp Dataset chuẩn hóa\n    dataset = load_production_dataset(include_abstention=True)\n    print(f\"\\n[1/5] Đã tải tổng cộng {len(dataset)} ca kiểm thử chuẩn hóa.\")\n    # 2. Khởi tạo ChromaDB Vector Retriever\n    print(\"\\n[2/5] Đang kết nối ChromaDB và tải mô hình Vector Store Index...\")",
+        "detail": "evaluation.run_production_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "evaluation.run_production_evaluation",
+        "description": "evaluation.run_production_evaluation",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\nsys.path.insert(0, str(PROJECT_ROOT))\n# Đảm bảo in tiếng Việt trên console Windows không bị lỗi bảng mã\nif sys.platform == \"win32\" and hasattr(sys.stdout, \"buffer\"):\n    import io\n    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding=\"utf-8\", errors=\"replace\")\n    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding=\"utf-8\", errors=\"replace\")\nfrom evaluation.enhanced_dataset import load_production_dataset\nfrom evaluation.production_evaluator import ProductionEvaluator\nfrom database.chroma_store import load_vector_index",
+        "detail": "evaluation.run_production_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "BGE_M3_Embedding",
+        "kind": 6,
+        "importPath": "indexing.embedding.bge_m3",
+        "description": "indexing.embedding.bge_m3",
+        "peekOfCode": "class BGE_M3_Embedding:\n    def __init__(self):\n        self.embed_model = HuggingFaceEmbedding(\n            model_name=\"BAAI/bge-m3\"\n        )\n        Settings.embed_model = self.embed_model\n    def get_model(self):\n        return self.embed_model",
+        "detail": "indexing.embedding.bge_m3",
+        "documentation": {}
+    },
+    {
+        "label": "CustomModelEmbedding",
+        "kind": 6,
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "peekOfCode": "class CustomModelEmbedding:\n    \"\"\"\n    Wrapper mô hình Embedding dùng OpenAI chính hãng hoặc OpenAI-compatible proxy (vilao).\n    Cấu hình linh hoạt qua:\n    - EMBEDDING_MODEL: tên model (vd: text-embedding-3-large, text-embedding-3-small)\n    - EMBEDDING_API_KEY: API key\n    - EMBEDDING_BASE_URL: Base URL của endpoint\n    - EMBED_BATCH_SIZE: số lượng chunk gửi mỗi lần (mặc định: 50)\n    \"\"\"\n    def __init__(",
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "NVIDIAEmbeddingWrapper",
+        "kind": 5,
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "peekOfCode": "NVIDIAEmbeddingWrapper = CustomModelEmbedding\nOpenAIEmbeddingWrapper = CustomModelEmbedding",
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddingWrapper",
+        "kind": 5,
+        "importPath": "indexing.embedding.custom_model_embedding",
+        "description": "indexing.embedding.custom_model_embedding",
+        "peekOfCode": "OpenAIEmbeddingWrapper = CustomModelEmbedding",
+        "detail": "indexing.embedding.custom_model_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "indexing.embedding.embeddMD",
+        "description": "indexing.embedding.embeddMD",
+        "peekOfCode": "__all__ = [\"CustomModelEmbedding\", \"NVIDIAEmbeddingWrapper\"]",
+        "detail": "indexing.embedding.embeddMD",
+        "documentation": {}
+    },
+    {
+        "label": "GraphBuilder",
+        "kind": 6,
+        "importPath": "indexing.graph.graph_builder",
+        "description": "indexing.graph.graph_builder",
+        "peekOfCode": "class GraphBuilder:\n    def __init__(self, llm, embed_model, graph_store):\n        self.llm = llm\n        self.embed_model = embed_model\n        self.graph_store = graph_store\n        # Tao rate limiter 1 LAN DUY NHAT khi khoi tao class, khong tao lai trong vong lap\n        # 180/phut vi gpt-5.6-sol la subscription, thuong co gioi han cao hon NVIDIA free tier\n        self.rate_limiter = RateLimiter(max_per_minute=180)\n    def _stable_id(self, node):\n        \"\"\"ID on dinh dua theo noi dung, khong doi giua cac lan chay\"\"\"",
+        "detail": "indexing.graph.graph_builder",
+        "documentation": {}
+    },
+    {
+        "label": "CHECKPOINT_FILE",
+        "kind": 5,
+        "importPath": "indexing.graph.graph_builder",
+        "description": "indexing.graph.graph_builder",
+        "peekOfCode": "CHECKPOINT_FILE = \"graph_progress.pkl\"\nclass GraphBuilder:\n    def __init__(self, llm, embed_model, graph_store):\n        self.llm = llm\n        self.embed_model = embed_model\n        self.graph_store = graph_store\n        # Tao rate limiter 1 LAN DUY NHAT khi khoi tao class, khong tao lai trong vong lap\n        # 180/phut vi gpt-5.6-sol la subscription, thuong co gioi han cao hon NVIDIA free tier\n        self.rate_limiter = RateLimiter(max_per_minute=180)\n    def _stable_id(self, node):",
+        "detail": "indexing.graph.graph_builder",
+        "documentation": {}
+    },
+    {
+        "label": "POSSIBLE_ENTITIES",
+        "kind": 5,
+        "importPath": "indexing.graph.graph_schema",
+        "description": "indexing.graph.graph_schema",
+        "peekOfCode": "POSSIBLE_ENTITIES = [\n    \"VanBanPhapLuat\",      # Luật, Nghị định, Thông tư, Quyết định\n    \"DieuKhoan\",           # Điều, Khoản, Điểm cụ thể (ví dụ: Điều 34, Khoản 2 Điều 8)\n    \"CoQuanBanHanh\",       # Quốc hội, Chính phủ, Bộ TT&TT, Bộ KH&CN, Bộ Công an\n    \"ChuThe\",              # Cá nhân, Tổ chức, Doanh nghiệp, Chủ quản hệ thống, Bên kiểm soát DLCN\n    \"HanhViViPham\",        # Hành vi bị nghiêm cấm, vi phạm quy định an ninh mạng, AI, dữ liệu\n    \"CheTai_HinhPhat\",     # Phạt tiền, tịch thu tang vật, tước giấy phép, đình chỉ hoạt động\n    \"KhaiNiemPhapLy\",      # Dữ liệu cá nhân nhạy cảm, Hệ thống AI rủi ro cao, Không gian mạng\n    \"LinhVuc\",             # An ninh mạng, Trí tuệ nhân tạo, Dữ liệu cá nhân, Mật mã dân sự\n]",
+        "detail": "indexing.graph.graph_schema",
+        "documentation": {}
+    },
+    {
+        "label": "POSSIBLE_RELATIONS",
+        "kind": 5,
+        "importPath": "indexing.graph.graph_schema",
+        "description": "indexing.graph.graph_schema",
+        "peekOfCode": "POSSIBLE_RELATIONS = [\n    \"BAN_HANH\",            # Cơ quan ban hành -> Văn bản pháp luật\n    \"QUY_DINH_CHI_TIET\",   # Nghị định -> quy định chi tiết cho -> Luật\n    \"SUA_DOI_BO_SUNG\",     # Văn bản sửa đổi -> sửa đổi bổ sung cho -> Văn bản cũ\n    \"THAY_THE\",            # Văn bản mới -> thay thế -> Văn bản cũ\n    \"THUOC_VAN_BAN\",       # Điều khoản -> thuộc về -> Văn bản pháp luật\n    \"VIEN_DAN\",            # Điều khoản -> viện dẫn/tham chiếu tới -> Điều khoản khác\n    \"QUY_DINH_VE\",         # Điều khoản -> quy định về -> Khái niệm pháp lý / Hành vi\n    \"XU_PHAT\",             # Hành vi vi phạm / Điều khoản -> áp dụng mức phạt -> Chế tài\n    \"AP_DUNG_CHO\",         # Điều khoản / Nghĩa vụ -> áp dụng đối với -> Chủ thể",
+        "detail": "indexing.graph.graph_schema",
+        "documentation": {}
+    },
+    {
+        "label": "entities",
+        "kind": 5,
+        "importPath": "indexing.graph.graph_schema",
+        "description": "indexing.graph.graph_schema",
+        "peekOfCode": "entities = Literal[tuple(POSSIBLE_ENTITIES)]\nrelations = Literal[tuple(POSSIBLE_RELATIONS)]",
+        "detail": "indexing.graph.graph_schema",
+        "documentation": {}
+    },
+    {
+        "label": "relations",
+        "kind": 5,
+        "importPath": "indexing.graph.graph_schema",
+        "description": "indexing.graph.graph_schema",
+        "peekOfCode": "relations = Literal[tuple(POSSIBLE_RELATIONS)]",
+        "detail": "indexing.graph.graph_schema",
+        "documentation": {}
+    },
+    {
+        "label": "GraphStore",
+        "kind": 6,
+        "importPath": "indexing.graph.graph_store",
+        "description": "indexing.graph.graph_store",
+        "peekOfCode": "class GraphStore:\n    def __init__(self):\n        self.graph_store = Neo4jPropertyGraphStore(\n            username=os.getenv(\"NEO4J_USERNAME\"),\n            password=os.getenv(\"NEO4J_PASSWORD\"),\n            url=os.getenv(\"NEO4J_URI\"),\n            # database=os.getenv(\"NEO4J_DATABASE\"),\n        )\n    def get_store(self):\n        return self.graph_store",
+        "detail": "indexing.graph.graph_store",
+        "documentation": {}
+    },
+    {
+        "label": "MetadataExtractor",
+        "kind": 6,
+        "importPath": "indexing.metadata.extractor",
+        "description": "indexing.metadata.extractor",
+        "peekOfCode": "class MetadataExtractor:\n    def __init__(self):\n        if os.path.exists(CACHE_FILE):\n            kvstore = SimpleKVStore.from_persist_path(CACHE_FILE)\n            print(f\"[CACHE] Tim thay cache cu tai {CACHE_FILE}\")\n        else:\n            kvstore = SimpleKVStore()\n        cache = IngestionCache(cache=kvstore)\n        self.pipeline = IngestionPipeline(\n            transformations=[",
+        "detail": "indexing.metadata.extractor",
+        "documentation": {}
+    },
+    {
+        "label": "CACHE_FILE",
+        "kind": 5,
+        "importPath": "indexing.metadata.extractor",
+        "description": "indexing.metadata.extractor",
+        "peekOfCode": "CACHE_FILE = \"metadata_cache.json\"\nFINAL_NODES_FILE = \"metadata_nodes_final.pkl\"\nclass MetadataExtractor:\n    def __init__(self):\n        if os.path.exists(CACHE_FILE):\n            kvstore = SimpleKVStore.from_persist_path(CACHE_FILE)\n            print(f\"[CACHE] Tim thay cache cu tai {CACHE_FILE}\")\n        else:\n            kvstore = SimpleKVStore()\n        cache = IngestionCache(cache=kvstore)",
+        "detail": "indexing.metadata.extractor",
+        "documentation": {}
+    },
+    {
+        "label": "FINAL_NODES_FILE",
+        "kind": 5,
+        "importPath": "indexing.metadata.extractor",
+        "description": "indexing.metadata.extractor",
+        "peekOfCode": "FINAL_NODES_FILE = \"metadata_nodes_final.pkl\"\nclass MetadataExtractor:\n    def __init__(self):\n        if os.path.exists(CACHE_FILE):\n            kvstore = SimpleKVStore.from_persist_path(CACHE_FILE)\n            print(f\"[CACHE] Tim thay cache cu tai {CACHE_FILE}\")\n        else:\n            kvstore = SimpleKVStore()\n        cache = IngestionCache(cache=kvstore)\n        self.pipeline = IngestionPipeline(",
+        "detail": "indexing.metadata.extractor",
+        "documentation": {}
+    },
+    {
+        "label": "LegalStructureAwareParser",
+        "kind": 6,
+        "importPath": "indexing.parser.legal_parser",
+        "description": "indexing.parser.legal_parser",
+        "peekOfCode": "class LegalStructureAwareParser:\n    \"\"\"\n    Bộ phân tích cú pháp chuyên biệt cho văn bản quy phạm pháp luật Việt Nam.\n    Bóc tách cấu trúc: Tiêu đề văn bản, Số hiệu văn bản, Trạng thái hiệu lực, Chương, Mục, Điều.\n    Gắn Context Header vào từng Node để đảm bảo trọn vẹn ngữ cảnh khi truy xuất.\n    \"\"\"\n    def __init__(self, max_chunk_size: int = 1200, chunk_overlap: int = 150):\n        self.max_chunk_size = max_chunk_size\n        self.chunk_overlap = chunk_overlap\n    def parse_documents(self, documents: List[Document]) -> List[BaseNode]:",
+        "detail": "indexing.parser.legal_parser",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownParser",
+        "kind": 6,
+        "importPath": "indexing.parser.markdown_parser",
+        "description": "indexing.parser.markdown_parser",
+        "peekOfCode": "class MarkdownParser:\n    def __init__(self):\n        self.parser = MarkdownNodeParser()\n    def parse(self, documents: list[Document]) -> list[BaseNode]:\n        return self.parser.get_nodes_from_documents(documents)\n#Cai nay de thu nghiem thoi\n#chu van uu tien chia theo ngu nghia",
+        "detail": "indexing.parser.markdown_parser",
+        "documentation": {}
+    },
+    {
+        "label": "SemanticParser",
+        "kind": 6,
+        "importPath": "indexing.parser.semantic_parser",
+        "description": "indexing.parser.semantic_parser",
+        "peekOfCode": "class SemanticParser:\n    def __init__(self, embed_model):\n        self.parser = SemanticSplitterNodeParser( # cach nay ngon chim hon nhieu\n            embed_model=embed_model, #truyen model tu thu muc embedding\n            buffer_size=1,\n            breakpoint_percentile_threshold=95,\n        )\n    def parse(self, documents: list[Document]) -> list[BaseNode]:\n        return self.parser.get_nodes_from_documents(documents)",
+        "detail": "indexing.parser.semantic_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaStore",
+        "kind": 6,
+        "importPath": "indexing.vector.chroma",
+        "description": "indexing.vector.chroma",
+        "peekOfCode": "class ChromaStore:\n    def __init__(\n        self,\n        db_path: str = DEFAULT_CHROMA_PATH,\n        collection_name: str = DEFAULT_COLLECTION,\n        recreate: bool = False\n    ):\n        target_path = Path(db_path)\n        target_path.mkdir(parents=True, exist_ok=True)\n        self.client = chromadb.PersistentClient(path=str(target_path))",
+        "detail": "indexing.vector.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CHROMA_PATH",
+        "kind": 5,
+        "importPath": "indexing.vector.chroma",
+        "description": "indexing.vector.chroma",
+        "peekOfCode": "DEFAULT_CHROMA_PATH = os.getenv(\"CHROMA_DB_PATH\", \"./database/chroma_db\")\nDEFAULT_COLLECTION = os.getenv(\"CHROMA_COLLECTION\", \"legal_corpus\")\nclass ChromaStore:\n    def __init__(\n        self,\n        db_path: str = DEFAULT_CHROMA_PATH,\n        collection_name: str = DEFAULT_COLLECTION,\n        recreate: bool = False\n    ):\n        target_path = Path(db_path)",
+        "detail": "indexing.vector.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_COLLECTION",
+        "kind": 5,
+        "importPath": "indexing.vector.chroma",
+        "description": "indexing.vector.chroma",
+        "peekOfCode": "DEFAULT_COLLECTION = os.getenv(\"CHROMA_COLLECTION\", \"legal_corpus\")\nclass ChromaStore:\n    def __init__(\n        self,\n        db_path: str = DEFAULT_CHROMA_PATH,\n        collection_name: str = DEFAULT_COLLECTION,\n        recreate: bool = False\n    ):\n        target_path = Path(db_path)\n        target_path.mkdir(parents=True, exist_ok=True)",
+        "detail": "indexing.vector.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "BuildIndex",
+        "kind": 6,
+        "importPath": "indexing.build_index",
+        "description": "indexing.build_index",
+        "peekOfCode": "class BuildIndex:\n    \"\"\"\n    Quy trình xây dựng toàn diện bộ chỉ mục đa kênh cho Legal HybridRAG:\n    1. Tiền xử lý & làm sạch văn bản luật\n    2. Phân tích cú pháp chuyên sâu (LegalStructureAwareParser)\n    3. Xây dựng BM25 Sparse Index (BM25Search)\n    4. Xây dựng Dense Vector Index (ChromaDB)\n    5. Xây dựng Knowledge Graph Index (Neo4j)\n    \"\"\"\n    def __init__(",
+        "detail": "indexing.build_index",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "kind": 6,
+        "importPath": "indexing.rate_limit",
+        "description": "indexing.rate_limit",
+        "peekOfCode": "class RateLimiter:\n    \"\"\"Gioi han so request/phut, tu dong cho neu vuot\"\"\"\n    def __init__(self, max_per_minute=180):  # de du 5 request duoi nguong 40\n        self.max_per_minute = max_per_minute\n        self.min_interval = 60.0 / max_per_minute\n        self.last_call = 0\n    def wait(self):\n        now = time.time()\n        elapsed = now - self.last_call\n        if elapsed < self.min_interval:",
+        "detail": "indexing.rate_limit",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownLoader",
+        "kind": 6,
+        "importPath": "ingestion.loader.load_markdown",
+        "description": "ingestion.loader.load_markdown",
+        "peekOfCode": "class MarkdownLoader:\n    def __init__(self, markdown_folder: str):\n        self.markdown_folder = Path(markdown_folder)\n    def load(self) -> list[Document]:\n        documents = []\n        for md_file in sorted(self.markdown_folder.glob(\"*.md\")):\n            text = md_file.read_text(encoding=\"utf-8\")\n            documents.append(\n                Document(\n                    text=text,",
+        "detail": "ingestion.loader.load_markdown",
+        "documentation": {}
+    },
+    {
+        "label": "TextCleaner",
+        "kind": 6,
+        "importPath": "ingestion.processes.clean_text",
+        "description": "ingestion.processes.clean_text",
+        "peekOfCode": "class TextCleaner:\n    def clean(self, text: str) -> str:\n        text = text.replace(\"\\ufeff\", \"\")\n        # doi may cai tab thanh space\n        text = text.replace(\"\\t\", \" \")\n        # bo khoang trang cuoi dong\n        text = re.sub(r\"[ \\t]+$\", \"\", text, flags=re.MULTILINE)\n        # neu ma nhieu dong trong thi de thanh 2 dong thoi\n        text = re.sub(r\"\\n{3,}\", \"\\n\\n\", text)\n        # nhiều space liên tiếp",
+        "detail": "ingestion.processes.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "TextNormalizer",
+        "kind": 6,
+        "importPath": "ingestion.processes.normalize",
+        "description": "ingestion.processes.normalize",
+        "peekOfCode": "class TextNormalizer:\n    def normalize(self, text: str) -> str:\n        text = unicodedata.normalize(\n            \"NFC\",\n            text\n        )\n        return text",
+        "detail": "ingestion.processes.normalize",
+        "documentation": {}
+    },
+    {
+        "label": "IngestionPipeline",
+        "kind": 6,
+        "importPath": "ingestion.pipeline",
+        "description": "ingestion.pipeline",
+        "peekOfCode": "class IngestionPipeline:\n    def __init__(self):\n        self.cleaner = TextCleaner()\n        self.normalizer = TextNormalizer()\n    def run(self, documents):\n        processed_documents = []\n        for doc in documents:\n            text = self.cleaner.clean(doc.text)\n            text = self.normalizer.normalize(text)\n            doc.text = text",
+        "detail": "ingestion.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerGenerator",
+        "kind": 6,
+        "importPath": "llm.answer_generator",
+        "description": "llm.answer_generator",
+        "peekOfCode": "class AnswerGenerator:\n    def __init__(self, llm=None):\n        self.llm = llm if llm is not None else NvidiaNimLLM().get_llm()\n    def _format_context(self, contexts: Union[str, List]) -> str:\n        \"\"\"\n        Chuẩn hóa ngữ cảnh đầu vào thành dạng chuỗi giàu thông tin metadata\n        giúp LLM dễ dàng nhận diện và trích dẫn chính xác nguồn gốc điều luật.\n        \"\"\"\n        if isinstance(contexts, str):\n            return contexts",
+        "detail": "llm.answer_generator",
+        "documentation": {}
+    },
+    {
+        "label": "get_default_llm",
+        "kind": 2,
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "peekOfCode": "def get_default_llm():\n    \"\"\"\n    Khởi tạo mô hình LLM tương thích OpenAI (Gemini chạy qua 9router custom).\n    \"\"\"\n    llm = OpenAILike(\n        model=LLM_MODEL,\n        api_base=LLM_BASE_URL,\n        api_key=LLM_API_KEY,\n        is_chat_model=True,\n        is_function_calling_model=False,",
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "LLM_MODEL",
+        "kind": 5,
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "peekOfCode": "LLM_MODEL = os.getenv(\"LLM_MODEL\", \"gemini-3.8-flash-high\")\nLLM_BASE_URL = os.getenv(\"LLM_BASE_URL\", \"http://127.0.0.1:8317/v1\")\nLLM_API_KEY = os.getenv(\"LLM_API_KEY\", \"\")\n# =====================================================================\n# 2. CẤU HÌNH EMBEDDING (OPENAI / CUSTOM PROXY VILAO)\n# =====================================================================\nEMBEDDING_MODEL = os.getenv(\"EMBEDDING_MODEL\", \"text-embedding-3-large\")\nEMBEDDING_BASE_URL = os.getenv(\"EMBEDDING_BASE_URL\", \"https://api.vilao.ai/v1\")\nEMBEDDING_API_KEY = os.getenv(\"EMBEDDING_API_KEY\", \"\")\ndef get_default_llm():",
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "LLM_BASE_URL",
+        "kind": 5,
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "peekOfCode": "LLM_BASE_URL = os.getenv(\"LLM_BASE_URL\", \"http://127.0.0.1:8317/v1\")\nLLM_API_KEY = os.getenv(\"LLM_API_KEY\", \"\")\n# =====================================================================\n# 2. CẤU HÌNH EMBEDDING (OPENAI / CUSTOM PROXY VILAO)\n# =====================================================================\nEMBEDDING_MODEL = os.getenv(\"EMBEDDING_MODEL\", \"text-embedding-3-large\")\nEMBEDDING_BASE_URL = os.getenv(\"EMBEDDING_BASE_URL\", \"https://api.vilao.ai/v1\")\nEMBEDDING_API_KEY = os.getenv(\"EMBEDDING_API_KEY\", \"\")\ndef get_default_llm():\n    \"\"\"",
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "LLM_API_KEY",
+        "kind": 5,
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "peekOfCode": "LLM_API_KEY = os.getenv(\"LLM_API_KEY\", \"\")\n# =====================================================================\n# 2. CẤU HÌNH EMBEDDING (OPENAI / CUSTOM PROXY VILAO)\n# =====================================================================\nEMBEDDING_MODEL = os.getenv(\"EMBEDDING_MODEL\", \"text-embedding-3-large\")\nEMBEDDING_BASE_URL = os.getenv(\"EMBEDDING_BASE_URL\", \"https://api.vilao.ai/v1\")\nEMBEDDING_API_KEY = os.getenv(\"EMBEDDING_API_KEY\", \"\")\ndef get_default_llm():\n    \"\"\"\n    Khởi tạo mô hình LLM tương thích OpenAI (Gemini chạy qua 9router custom).",
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "EMBEDDING_MODEL",
+        "kind": 5,
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "peekOfCode": "EMBEDDING_MODEL = os.getenv(\"EMBEDDING_MODEL\", \"text-embedding-3-large\")\nEMBEDDING_BASE_URL = os.getenv(\"EMBEDDING_BASE_URL\", \"https://api.vilao.ai/v1\")\nEMBEDDING_API_KEY = os.getenv(\"EMBEDDING_API_KEY\", \"\")\ndef get_default_llm():\n    \"\"\"\n    Khởi tạo mô hình LLM tương thích OpenAI (Gemini chạy qua 9router custom).\n    \"\"\"\n    llm = OpenAILike(\n        model=LLM_MODEL,\n        api_base=LLM_BASE_URL,",
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "EMBEDDING_BASE_URL",
+        "kind": 5,
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "peekOfCode": "EMBEDDING_BASE_URL = os.getenv(\"EMBEDDING_BASE_URL\", \"https://api.vilao.ai/v1\")\nEMBEDDING_API_KEY = os.getenv(\"EMBEDDING_API_KEY\", \"\")\ndef get_default_llm():\n    \"\"\"\n    Khởi tạo mô hình LLM tương thích OpenAI (Gemini chạy qua 9router custom).\n    \"\"\"\n    llm = OpenAILike(\n        model=LLM_MODEL,\n        api_base=LLM_BASE_URL,\n        api_key=LLM_API_KEY,",
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "EMBEDDING_API_KEY",
+        "kind": 5,
+        "importPath": "llm.config",
+        "description": "llm.config",
+        "peekOfCode": "EMBEDDING_API_KEY = os.getenv(\"EMBEDDING_API_KEY\", \"\")\ndef get_default_llm():\n    \"\"\"\n    Khởi tạo mô hình LLM tương thích OpenAI (Gemini chạy qua 9router custom).\n    \"\"\"\n    llm = OpenAILike(\n        model=LLM_MODEL,\n        api_base=LLM_BASE_URL,\n        api_key=LLM_API_KEY,\n        is_chat_model=True,",
+        "detail": "llm.config",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiLLM",
+        "kind": 6,
+        "importPath": "llm.gemini",
+        "description": "llm.gemini",
+        "peekOfCode": "class GeminiLLM(CustomLLM):\n    \"\"\"\n    Wrapper tích hợp Google Gemini qua SDK chính thức google-genai.\n    Hỗ trợ cơ chế tự động retry backoff và fallback model khi gặp 503/429.\n    \"\"\"\n    model_name: str = \"gemini-2.5-flash-lite\"\n    api_key: Optional[str] = None\n    _client: Optional[Any] = None\n    def __init__(self, model_name: str = \"gemini-2.5-flash-lite\", api_key: Optional[str] = None):\n        super().__init__()",
+        "detail": "llm.gemini",
+        "documentation": {}
+    },
+    {
+        "label": "LLMCustom",
+        "kind": 6,
+        "importPath": "llm.llm_custom",
+        "description": "llm.llm_custom",
+        "peekOfCode": "class LLMCustom:\n    def __init__(self):\n        self.llm = OpenAILike(\n            model=os.getenv(\"LLM_MODEL\"),\n            api_base=os.getenv(\"LLM_BASE_URL\"),\n            api_key=os.getenv(\"LLM_API_KEY\"),\n            is_chat_model=True,\n            is_function_calling_model=False,\n            pydantic_program_mode=PydanticProgramMode.LLM,  # them dong nay\n            context_window=16384,",
+        "detail": "llm.llm_custom",
+        "documentation": {}
+    },
+    {
+        "label": "NvidiaNimLLM",
+        "kind": 6,
+        "importPath": "llm.nvidia",
+        "description": "llm.nvidia",
+        "peekOfCode": "class NvidiaNimLLM:\n    \"\"\"Wrapper tương thích ngược sử dụng LLM được cấu hình trong .env (Gemini qua 9router).\"\"\"\n    def __init__(self):\n        self.llm = get_default_llm()\n    def get_llm(self):\n        return self.llm\n# Alias để gọi theo chuẩn mới\nOpenAILikeLLM = NvidiaNimLLM",
+        "detail": "llm.nvidia",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAILikeLLM",
+        "kind": 5,
+        "importPath": "llm.nvidia",
+        "description": "llm.nvidia",
+        "peekOfCode": "OpenAILikeLLM = NvidiaNimLLM",
+        "detail": "llm.nvidia",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaLLM",
+        "kind": 6,
+        "importPath": "llm.ollama",
+        "description": "llm.ollama",
+        "peekOfCode": "class OllamaLLM:\n    def __init__(self):\n        self.llm = Ollama(\n            model=\"qwen2.5:7b\",\n            request_timeout=300,\n        )\n        Settings.llm = self.llm\n    def get_llm(self):\n        return self.llm",
+        "detail": "llm.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "build_prompt",
+        "kind": 2,
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "peekOfCode": "def build_prompt(context: str, question: str) -> str:\n    return f\"\"\"\nThông tin tham khảo từ văn bản pháp luật (Context):\n{context}\nCâu hỏi của người dùng:\n{question}\nLời giải đáp pháp lý:\n\"\"\"\n# HyDE Prompt: Sinh văn bản giả định mang văn phong quy phạm pháp luật\nHYDE_PROMPT = \"\"\"",
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "kind": 5,
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "peekOfCode": "PROMPT = \"\"\"\nBạn là Trợ lý Pháp lý AI chuyên sâu về hệ thống pháp luật Việt Nam, đặc biệt là các lĩnh vực:\n- Luật An ninh mạng và các Nghị định hướng dẫn thi hành.\n- Luật Trí tuệ nhân tạo (AI) và khung đạo đức, chiến lược AI quốc gia.\n- Luật Bảo vệ dữ liệu cá nhân (Nghị định 13/2023/NĐ-CP và các văn bản quy định chi tiết).\n- Xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng, công nghệ thông tin.\nQUY TẮC BẮT BUỘC:\n1. BẮT BUỘC căn cứ vào thông tin trong phần CONTEXT được cung cấp.\n2. TUYỆT ĐỐI KHÔNG tự suy diễn, không được bịa đặt điều luật, số hiệu văn bản, thẩm quyền hay mức phạt tiền.\n3. BẮT BUỘC nêu rõ CĂN CỨ PHÁP LÝ (ví dụ: \"Theo Điều ... Khoản ... của [Tên văn bản / Số hiệu]\").",
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "HYDE_PROMPT",
+        "kind": 5,
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "peekOfCode": "HYDE_PROMPT = \"\"\"\nBạn là chuyên gia soạn thảo văn bản quy phạm pháp luật Việt Nam.\nNhiệm vụ của bạn KHÔNG phải là trả lời trực tiếp người dùng.\nHãy viết một đoạn trích văn bản pháp luật giả định (hypothetical legal document)\nvới thể thức Điều, Khoản mang văn phong luật pháp chuẩn của Việt Nam liên quan đến câu hỏi.\nYêu cầu:\n- Viết khoảng 120-250 từ.\n- Dùng văn phong chuẩn mực của Luật/Nghị định (ví dụ: \"Điều ... Quy định về...\", \"1. Cá nhân, tổ chức có hành vi...\", \"Mức phạt tiền từ...\").\n- Bao gồm các khái niệm, nghĩa vụ, hành vi bị nghiêm cấm hoặc chế tài tương ứng với chủ đề câu hỏi.\n- Không thêm lời mở đầu hay kết luận cá nhân.",
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "QUERY_REWRITE_PROMPT",
+        "kind": 5,
+        "importPath": "llm.prompts",
+        "description": "llm.prompts",
+        "peekOfCode": "QUERY_REWRITE_PROMPT = \"\"\"\nBạn là hệ thống chuẩn hóa câu hỏi pháp lý tiếng Việt.\nNhiệm vụ:\n- Sửa lỗi chính tả tiếng Việt.\n- Mở rộng các từ viết tắt phổ biến:\n  + AI -> trí tuệ nhân tạo\n  + ANM -> an ninh mạng\n  + ATTT -> an toàn thông tin mạng\n  + CSDL -> cơ sở dữ liệu\n  + DLCN -> dữ liệu cá nhân",
+        "detail": "llm.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "SafeOpenAILike",
+        "kind": 6,
+        "importPath": "llm.safe_openai_like",
+        "description": "llm.safe_openai_like",
+        "peekOfCode": "class SafeOpenAILike(OpenAILike):\n    async def achat(self, messages, **kwargs):\n        try:\n            return await super().achat(messages, **kwargs)\n        except (IndexError, TypeError) as e:\n            msg = str(e)\n            if \"list index out of range\" in msg or \"NoneType\" in msg or \"subscriptable\" in msg:\n                print(f\"[SAFE_LLM] Provider tra ve response bat thuong ({type(e).__name__}), \"\n                      f\"dung placeholder thay vi crash\")\n                return ChatResponse(",
+        "detail": "llm.safe_openai_like",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "llm.test_llm",
+        "description": "llm.test_llm",
+        "peekOfCode": "llm = NvidiaNimLLM()\nresponse = llm.complete(\n    \"Giới thiệu ngắn về cây mai vàng.\"\n)\nprint(response)",
+        "detail": "llm.test_llm",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "llm.test_llm",
+        "description": "llm.test_llm",
+        "peekOfCode": "response = llm.complete(\n    \"Giới thiệu ngắn về cây mai vàng.\"\n)\nprint(response)",
+        "detail": "llm.test_llm",
+        "documentation": {}
+    },
+    {
+        "label": "LatencyTracker",
+        "kind": 6,
+        "importPath": "retrieval.metrics.latency_tracker",
+        "description": "retrieval.metrics.latency_tracker",
+        "peekOfCode": "class LatencyTracker:\n    \"\"\"\n    Bộ theo dõi và đo lường độ trễ (latency tracking/profiling)\n    từng giai đoạn trong pipeline RAG:\n    - query_rewrite\n    - hyde_generation\n    - vector_search\n    - graph_search\n    - hybrid_merge\n    - reranking",
+        "detail": "retrieval.metrics.latency_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "CrossEncoderReranker",
+        "kind": 6,
+        "importPath": "retrieval.reranker.bge_reranker",
+        "description": "retrieval.reranker.bge_reranker",
+        "peekOfCode": "class CrossEncoderReranker:\n    def __init__(self, model_name: str = \"BAAI/bge-reranker-v2-m3\", top_k: int = 5):\n        self.top_k = top_k\n        self.model = CrossEncoder(model_name, max_length=512)\n    def rerank(self, question: str, nodes: List) -> List:\n        if not nodes:\n            return []\n        pairs = [[question, node.text] for node in nodes]\n        scores = self.model.predict(pairs)\n        ranked = sorted(zip(nodes, scores), key=lambda x: x[1], reverse=True)",
+        "detail": "retrieval.reranker.bge_reranker",
+        "documentation": {}
+    },
+    {
+        "label": "HyDE",
+        "kind": 6,
+        "importPath": "retrieval.rewrite.hyde",
+        "description": "retrieval.rewrite.hyde",
+        "peekOfCode": "class HyDE:\n    def __init__(self, llm):\n        self.llm = llm\n    def generate(self, question: str) -> str:\n        print(\"[PIPELINE] Bước 2: HyDE (Sinh văn bản quy phạm pháp luật giả định)\")\n        if self.llm is None:\n            return question\n        try:\n            prompt = HYDE_PROMPT.format(question=question)\n            response = self.llm.complete(prompt)",
+        "detail": "retrieval.rewrite.hyde",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRewrite",
+        "kind": 6,
+        "importPath": "retrieval.rewrite.query_rewrite",
+        "description": "retrieval.rewrite.query_rewrite",
+        "peekOfCode": "class QueryRewrite:\n    def __init__(self, llm):\n        self.llm = llm\n    def rewrite(self, question: str) -> str:\n        print(\"[PIPELINE] Bước 1: Query Rewrite\")\n        if self.llm is None:\n            return question\n        try:\n            prompt = QUERY_REWRITE_PROMPT.format(question=question)\n            response = self.llm.complete(prompt)",
+        "detail": "retrieval.rewrite.query_rewrite",
+        "documentation": {}
+    },
+    {
+        "label": "BM25Search",
+        "kind": 6,
+        "importPath": "retrieval.search.bm25_search",
+        "description": "retrieval.search.bm25_search",
+        "peekOfCode": "class BM25Search:\n    \"\"\"\n    Module Sparse/Keyword Search sử dụng BM25Okapi cho văn bản pháp luật tiếng Việt.\n    Trả về danh sách NodeWithScore tương thích hoàn toàn với LlamaIndex.\n    \"\"\"\n    def __init__(\n        self,\n        nodes: Optional[List[Any]] = None,\n        cache_path: str = \"./database/bm25_index.pkl\",\n        k1: float = 1.5,",
+        "detail": "retrieval.search.bm25_search",
+        "documentation": {}
+    },
+    {
+        "label": "GraphSearch",
+        "kind": 6,
+        "importPath": "retrieval.search.graph_search",
+        "description": "retrieval.search.graph_search",
+        "peekOfCode": "class GraphSearch:\n    def __init__(self, graph_index: PropertyGraphIndex, top_k: int = 5):\n        self.graph_index = graph_index\n        self.top_k = top_k\n    def search(self, question: str):\n        print(\"Buoc graph search\")\n        retriever = self.graph_index.as_retriever(\n            similarity_top_k=self.top_k\n        )\n        return retriever.retrieve(question)",
+        "detail": "retrieval.search.graph_search",
+        "documentation": {}
+    },
+    {
+        "label": "HybridSearch",
+        "kind": 6,
+        "importPath": "retrieval.search.hybrid_search",
+        "description": "retrieval.search.hybrid_search",
+        "peekOfCode": "class HybridSearch:\n    \"\"\"\n    Module kết hợp đa nguồn tìm kiếm (Dense Vector, Sparse BM25, Knowledge Graph)\n    sử dụng thuật toán chuẩn công nghiệp Reciprocal Rank Fusion (RRF).\n    \"\"\"\n    def __init__(self, k: int = 60):\n        \"\"\"\n        :param k: Hằng số làm mượt RRF (thông thường là 60 theo chuẩn IR).\n        \"\"\"\n        self.k = k",
+        "detail": "retrieval.search.hybrid_search",
+        "documentation": {}
+    },
+    {
+        "label": "VectorSearch",
+        "kind": 6,
+        "importPath": "retrieval.search.vector_search",
+        "description": "retrieval.search.vector_search",
+        "peekOfCode": "class VectorSearch:\n    def __init__(self, vector_index,top_k: int = 5):\n        self.vector_index = vector_index\n        self.top_k = top_k\n    def search(self, question):\n        print(\"Buoc vector search\")\n        retriever = self.vector_index.as_retriever(\n            similarity_top_k= self.top_k\n        )\n        return retriever.retrieve(question)",
+        "detail": "retrieval.search.vector_search",
+        "documentation": {}
+    },
+    {
+        "label": "Retriever",
+        "kind": 6,
+        "importPath": "retrieval.retrieve",
+        "description": "retrieval.retrieve",
+        "peekOfCode": "class Retriever:\n    def __init__(\n        self,\n        llm,\n        vector_index=None,\n        graph_index=None,\n        bm25_search: Optional[BM25Search] = None,\n        top_k: int = 5,\n        use_hyde: bool = True\n    ):",
+        "detail": "retrieval.retrieve",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tests.test_end_to_end_query",
+        "description": "tests.test_end_to_end_query",
+        "peekOfCode": "def main():\n    print(\"Khởi tạo hệ thống kiểm thử End-to-End với LLM tự động...\")\n    llm = get_default_llm()\n    print(f\"LLM đã chọn: {type(llm).__name__}\")\n    vector_index = load_vector_index()\n    bm25 = BM25Search(cache_path=str(PROJECT_ROOT / \"database\" / \"bm25_index.pkl\"))\n    retriever = Retriever(\n        llm=llm,\n        vector_index=vector_index,\n        bm25_search=bm25,",
+        "detail": "tests.test_end_to_end_query",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "tests.test_end_to_end_query",
+        "description": "tests.test_end_to_end_query",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\nif str(PROJECT_ROOT) not in sys.path:\n    sys.path.insert(0, str(PROJECT_ROOT))\nif sys.platform == \"win32\" and hasattr(sys.stdout, \"buffer\"):\n    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding=\"utf-8\", errors=\"replace\")\n    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding=\"utf-8\", errors=\"replace\")\nfrom database.chroma_store import load_vector_index\nfrom retrieval.search.bm25_search import BM25Search\nfrom retrieval.retrieve import Retriever\nfrom llm.answer_generator import AnswerGenerator",
+        "detail": "tests.test_end_to_end_query",
+        "documentation": {}
+    },
+    {
+        "label": "TestLatencyAndEvaluation",
+        "kind": 6,
+        "importPath": "tests.test_evaluation_and_latency",
+        "description": "tests.test_evaluation_and_latency",
+        "peekOfCode": "class TestLatencyAndEvaluation(unittest.TestCase):\n    def test_latency_tracker_basic(self):\n        tracker = LatencyTracker()\n        with tracker.track(\"query_rewrite\"):\n            time.sleep(0.01)\n        with tracker.track(\"vector_search\"):\n            time.sleep(0.01)\n        tracker.stop_total()\n        durations = tracker.to_dict(unit=\"seconds\")\n        self.assertIn(\"query_rewrite\", durations)",
+        "detail": "tests.test_evaluation_and_latency",
+        "documentation": {}
+    },
+    {
+        "label": "embed_with_retry",
+        "kind": 2,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "def embed_with_retry(embed_model, text, is_query=False, max_retries=5):\n    \"\"\"Tính embedding với cơ chế tự động chờ nếu gặp Rate Limit (429 ResourceExhausted).\"\"\"\n    backoff = 10\n    for attempt in range(max_retries):\n        try:\n            if is_query:\n                return embed_model.get_query_embedding(text)\n            else:\n                return embed_model.get_text_embedding(text)\n        except Exception as e:",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "reindex_chroma",
+        "kind": 2,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "def reindex_chroma(nodes, embed_model, batch_size=10):\n    print(\"\\n\" + \"=\" * 60)\n    print(\"1. BẮT ĐẦU RE-INDEX CHROMADB VỚI GEMINI EMBEDDING\")\n    print(\"=\" * 60)\n    client = chromadb.PersistentClient(path=str(CHROMA_DB_PATH))\n    # Kiểm tra tiến trình cũ\n    done_ids = set()\n    if CHECKPOINT_FILE.exists():\n        with open(CHECKPOINT_FILE, \"rb\") as f:\n            done_ids = pickle.load(f)",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "reindex_neo4j_entities",
+        "kind": 2,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "def reindex_neo4j_entities(embed_model):\n    print(\"\\n\" + \"=\" * 60)\n    print(\"2. BẮT ĐẦU CẬP NHẬT EMBEDDING CHO CÁC THỰC THỂ TRONG NEO4J\")\n    print(\"=\" * 60)\n    uri = os.getenv(\"NEO4J_URI\")\n    user = os.getenv(\"NEO4J_USERNAME\")\n    pwd = os.getenv(\"NEO4J_PASSWORD\")\n    driver = GraphDatabase.driver(uri, auth=(user, pwd))\n    with driver.session() as session:\n        # Xóa vector index cũ nếu có",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "def main():\n    print(\"=\" * 60)\n    print(\"   SCRIPT CHUYỂN ĐỔI TOÀN BỘ HỆ THỐNG SANG GEMINI EMBEDDING\")\n    print(\"   (Có cơ chế Auto-Resume Checkpoint & Retry Rate Limit)\")\n    print(\"=\" * 60)\n    if not CACHE_PKL_FILE.exists():\n        print(f\"[LỖI] Không tìm thấy file cache: {CACHE_PKL_FILE}\")\n        return\n    with open(CACHE_PKL_FILE, \"rb\") as f:\n        nodes = pickle.load(f)",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent\nsys.path.insert(0, str(PROJECT_ROOT))\n# Đảm bảo hiển thị tiếng Việt trên Windows\nif sys.platform == \"win32\" and hasattr(sys.stdout, \"buffer\"):\n    import io\n    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding=\"utf-8\", errors=\"replace\")\n    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding=\"utf-8\", errors=\"replace\")\nimport chromadb\nfrom dotenv import load_dotenv\nfrom neo4j import GraphDatabase",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "CACHE_PKL_FILE",
+        "kind": 5,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "CACHE_PKL_FILE = PROJECT_ROOT / \"metadata_nodes_final.pkl\"\nCHROMA_DB_PATH = PROJECT_ROOT / \"database\" / \"chroma_db\"\nCOLLECTION_NAME = \"mai_vang\"\nCHECKPOINT_FILE = PROJECT_ROOT / \"reindex_progress.pkl\"\ndef embed_with_retry(embed_model, text, is_query=False, max_retries=5):\n    \"\"\"Tính embedding với cơ chế tự động chờ nếu gặp Rate Limit (429 ResourceExhausted).\"\"\"\n    backoff = 10\n    for attempt in range(max_retries):\n        try:\n            if is_query:",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_DB_PATH",
+        "kind": 5,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "CHROMA_DB_PATH = PROJECT_ROOT / \"database\" / \"chroma_db\"\nCOLLECTION_NAME = \"mai_vang\"\nCHECKPOINT_FILE = PROJECT_ROOT / \"reindex_progress.pkl\"\ndef embed_with_retry(embed_model, text, is_query=False, max_retries=5):\n    \"\"\"Tính embedding với cơ chế tự động chờ nếu gặp Rate Limit (429 ResourceExhausted).\"\"\"\n    backoff = 10\n    for attempt in range(max_retries):\n        try:\n            if is_query:\n                return embed_model.get_query_embedding(text)",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "COLLECTION_NAME",
+        "kind": 5,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "COLLECTION_NAME = \"mai_vang\"\nCHECKPOINT_FILE = PROJECT_ROOT / \"reindex_progress.pkl\"\ndef embed_with_retry(embed_model, text, is_query=False, max_retries=5):\n    \"\"\"Tính embedding với cơ chế tự động chờ nếu gặp Rate Limit (429 ResourceExhausted).\"\"\"\n    backoff = 10\n    for attempt in range(max_retries):\n        try:\n            if is_query:\n                return embed_model.get_query_embedding(text)\n            else:",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "CHECKPOINT_FILE",
+        "kind": 5,
+        "importPath": "reindex_embedding",
+        "description": "reindex_embedding",
+        "peekOfCode": "CHECKPOINT_FILE = PROJECT_ROOT / \"reindex_progress.pkl\"\ndef embed_with_retry(embed_model, text, is_query=False, max_retries=5):\n    \"\"\"Tính embedding với cơ chế tự động chờ nếu gặp Rate Limit (429 ResourceExhausted).\"\"\"\n    backoff = 10\n    for attempt in range(max_retries):\n        try:\n            if is_query:\n                return embed_model.get_query_embedding(text)\n            else:\n                return embed_model.get_text_embedding(text)",
+        "detail": "reindex_embedding",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "run_offline_phase",
+        "description": "run_offline_phase",
+        "peekOfCode": "builder = BuildIndex()\nbuilder.run()\n# print(\"HELLO\")\n# raise Exception(\"TEST\")",
+        "detail": "run_offline_phase",
+        "documentation": {}
+    }
+]

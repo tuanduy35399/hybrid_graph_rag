@@ -1,4 +1,8 @@
+# Chặn mọi thư mục môi trường ảo ở bất kỳ cấp độ nào
 **/venv/
+**/.venv/
 **/.env
+**/.env.*
+**/__pycache__/
 **/data/
 **/database/

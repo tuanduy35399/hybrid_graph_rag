@@ -1,0 +1,1068 @@
+[
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "LegalRAGEngine",
+        "importPath": "rag_core.engine",
+        "description": "rag_core.engine",
+        "isExtraImport": true,
+        "detail": "rag_core.engine",
+        "documentation": {}
+    },
+    {
+        "label": "LegalRAGEngine",
+        "importPath": "rag_core.engine",
+        "description": "rag_core.engine",
+        "isExtraImport": true,
+        "detail": "rag_core.engine",
+        "documentation": {}
+    },
+    {
+        "label": "HybridLegalRetriever",
+        "importPath": "rag_core.retriever",
+        "description": "rag_core.retriever",
+        "isExtraImport": true,
+        "detail": "rag_core.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "HybridLegalRetriever",
+        "importPath": "rag_core.retriever",
+        "description": "rag_core.retriever",
+        "isExtraImport": true,
+        "detail": "rag_core.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownHeaderTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownHeaderTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "Se",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "ask",
+        "importPath": "fastAPI.old_code.google_model.rag",
+        "description": "fastAPI.old_code.google_model.rag",
+        "isExtraImport": true,
+        "detail": "fastAPI.old_code.google_model.rag",
+        "documentation": {}
+    },
+    {
+        "label": "genai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "LegalStructureAwareChunker",
+        "importPath": "rag_core.chunker",
+        "description": "rag_core.chunker",
+        "isExtraImport": true,
+        "detail": "rag_core.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "LegalChunk",
+        "importPath": "rag_core.chunker",
+        "description": "rag_core.chunker",
+        "isExtraImport": true,
+        "detail": "rag_core.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "BM25OkapiIndex",
+        "importPath": "rag_core.bm25",
+        "description": "rag_core.bm25",
+        "isExtraImport": true,
+        "detail": "rag_core.bm25",
+        "documentation": {}
+    },
+    {
+        "label": "BM25OkapiIndex",
+        "importPath": "rag_core.bm25",
+        "description": "rag_core.bm25",
+        "isExtraImport": true,
+        "detail": "rag_core.bm25",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "ChatRequest",
+        "kind": 6,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "class ChatRequest(BaseModel):\n    question: str = Field(..., description=\"Câu hỏi hoặc yêu cầu tra cứu pháp luật\", example=\"Dữ liệu cá nhân nhạy cảm gồm những gì?\")\n    top_k: Optional[int] = Field(default=None, description=\"Số lượng context trả về\")\nclass CitationItem(BaseModel):\n    doc_title: str\n    doc_code: str\n    status: str\n    chapter: str\n    article: str\n    source: str",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "CitationItem",
+        "kind": 6,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "class CitationItem(BaseModel):\n    doc_title: str\n    doc_code: str\n    status: str\n    chapter: str\n    article: str\n    source: str\n    preview: str\nclass ChatResponse(BaseModel):\n    question: str",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "ChatResponse",
+        "kind": 6,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "class ChatResponse(BaseModel):\n    question: str\n    answer: str\n    citations: List[CitationItem]\n    context_found: bool\nclass SearchRequest(BaseModel):\n    query: str = Field(..., description=\"Từ khóa hoặc câu hỏi cần tìm kiếm\")\n    top_k: int = Field(default=4, description=\"Số lượng kết quả cần lấy\")\n@app.get(\"/\")\ndef root():",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "SearchRequest",
+        "kind": 6,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "class SearchRequest(BaseModel):\n    query: str = Field(..., description=\"Từ khóa hoặc câu hỏi cần tìm kiếm\")\n    top_k: int = Field(default=4, description=\"Số lượng kết quả cần lấy\")\n@app.get(\"/\")\ndef root():\n    return {\n        \"service\": \"Vietnam AI & Cyber Law RAG API\",\n        \"status\": \"running\",\n        \"docs_url\": \"/docs\",\n        \"health_url\": \"/api/v1/health\"",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def root():\n    return {\n        \"service\": \"Vietnam AI & Cyber Law RAG API\",\n        \"status\": \"running\",\n        \"docs_url\": \"/docs\",\n        \"health_url\": \"/api/v1/health\"\n    }\n@app.get(\"/api/v1/health\")\ndef health_check():\n    \"\"\"Kiểm tra trạng thái cấu hình và cơ sở dữ liệu\"\"\"",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def health_check():\n    \"\"\"Kiểm tra trạng thái cấu hình và cơ sở dữ liệu\"\"\"\n    bm25_ready = rag_engine.retriever.bm25_index is not None\n    bm25_count = rag_engine.retriever.bm25_index.corpus_size if bm25_ready else 0\n    chroma_ready = rag_engine.retriever.vector_store is not None\n    return {\n        \"status\": \"healthy\",\n        \"configuration\": {\n            \"llm\": {\n                \"role\": \"Chat & Generation\",",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def chat(request: ChatRequest):\n    \"\"\"Truy vấn câu hỏi pháp luật (Non-streaming)\"\"\"\n    if not request.question.strip():\n        raise HTTPException(status_code=400, detail=\"Câu hỏi không được để trống\")\n    result = rag_engine.generate(request.question)\n    return result\n@app.post(\"/api/v1/chat/stream\")\ndef chat_stream(request: ChatRequest):\n    \"\"\"Truy vấn câu hỏi pháp luật theo dạng Streaming (Server-Sent Events)\"\"\"\n    if not request.question.strip():",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "chat_stream",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def chat_stream(request: ChatRequest):\n    \"\"\"Truy vấn câu hỏi pháp luật theo dạng Streaming (Server-Sent Events)\"\"\"\n    if not request.question.strip():\n        raise HTTPException(status_code=400, detail=\"Câu hỏi không được để trống\")\n    def event_stream():\n        for chunk in rag_engine.generate_stream(request.question):\n            # Định dạng SSE\n            yield f\"data: {json.dumps({'chunk': chunk}, ensure_ascii=False)}\\n\\n\"\n        yield \"data: [DONE]\\n\\n\"\n    return StreamingResponse(event_stream(), media_type=\"text/event-stream\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def search(request: SearchRequest):\n    \"\"\"Endpoint tra cứu context thuần túy để đánh giá chất lượng retrieval\"\"\"\n    if not request.query.strip():\n        raise HTTPException(status_code=400, detail=\"Từ khóa không được để trống\")\n    results = rag_engine.retriever.retrieve(request.query, top_k=request.top_k)\n    return {\n        \"query\": request.query,\n        \"total_results\": len(results),\n        \"results\": results\n    }",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Vietnam AI & Cyber Law RAG API\",\n    description=\"Hệ thống Trợ lý Tra cứu Pháp luật AI & An ninh mạng Việt Nam (OpenAI Compatible)\",\n    version=\"2.0.0\"\n)\n# CORS Middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "rag_engine",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "rag_engine = LegalRAGEngine()\n# Schemas\nclass ChatRequest(BaseModel):\n    question: str = Field(..., description=\"Câu hỏi hoặc yêu cầu tra cứu pháp luật\", example=\"Dữ liệu cá nhân nhạy cảm gồm những gì?\")\n    top_k: Optional[int] = Field(default=None, description=\"Số lượng context trả về\")\nclass CitationItem(BaseModel):\n    doc_title: str\n    doc_code: str\n    status: str\n    chapter: str",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    # =========================================================================\n    # 1. CẤU HÌNH LLM CHAT (DÙNG GEMINI QUA 9ROUTER THEO CHUẨN OPENAI)\n    # =========================================================================\n    LLM_API_KEY: str = Field(default=\"\", description=\"API Key của 9router cho Gemini LLM\")\n    LLM_BASE_URL: str | None = Field(default=None, description=\"Base URL của 9router (vd: https://api.9router.../v1)\")\n    LLM_MODEL: str = Field(default=\"gemini-2.5-flash\", description=\"Tên model Gemini trên 9router\")\n    # =========================================================================\n    # 2. CẤU HÌNH EMBEDDING (DÙNG OPENAI CHÍNH HÃNG HOẶC CUSTOM THEO CHUẨN OPENAI)\n    # =========================================================================",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nclass Settings(BaseSettings):\n    # =========================================================================\n    # 1. CẤU HÌNH LLM CHAT (DÙNG GEMINI QUA 9ROUTER THEO CHUẨN OPENAI)\n    # =========================================================================\n    LLM_API_KEY: str = Field(default=\"\", description=\"API Key của 9router cho Gemini LLM\")\n    LLM_BASE_URL: str | None = Field(default=None, description=\"Base URL của 9router (vd: https://api.9router.../v1)\")\n    LLM_MODEL: str = Field(default=\"gemini-2.5-flash\", description=\"Tên model Gemini trên 9router\")\n    # =========================================================================\n    # 2. CẤU HÌNH EMBEDDING (DÙNG OPENAI CHÍNH HÃNG HOẶC CUSTOM THEO CHUẨN OPENAI)",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "documents",
+        "kind": 5,
+        "importPath": "google_model.ingest",
+        "description": "google_model.ingest",
+        "peekOfCode": "documents = load_pdf.load()\n#Khuc nay la phan chia thanh cac chunk \n#Cách cũ chia theo dấu \\n không hiệu quả\n# phanchia = RecursiveCharacterTextSplitter(\n#     chunk_size=800,\n#     chunk_overlap= 150,\n# )\nheaders = {\n    (\"#\", \"h1\"),\n    (\"##\", \"h2\"),",
+        "detail": "google_model.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "google_model.ingest",
+        "description": "google_model.ingest",
+        "peekOfCode": "headers = {\n    (\"#\", \"h1\"),\n    (\"##\", \"h2\"),\n}\nphanchiaMarkDown = MarkdownHeaderTextSplitter(headers_to_split_on=headers, strip_headers= False)\nchunks = phanchiaMarkDown.split_documents(documents)\n#Nhung Googel AI \nembedding = GoogleGenerativeAIEmbeddings(\n    model=\"models/gemini-embedding-2\" #model embedding chuyen doc pdf \n    #chi tiet model o day https://ai.google.dev/gemini-api/docs/models/gemini-embedding-2?hl=vi",
+        "detail": "google_model.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "phanchiaMarkDown",
+        "kind": 5,
+        "importPath": "google_model.ingest",
+        "description": "google_model.ingest",
+        "peekOfCode": "phanchiaMarkDown = MarkdownHeaderTextSplitter(headers_to_split_on=headers, strip_headers= False)\nchunks = phanchiaMarkDown.split_documents(documents)\n#Nhung Googel AI \nembedding = GoogleGenerativeAIEmbeddings(\n    model=\"models/gemini-embedding-2\" #model embedding chuyen doc pdf \n    #chi tiet model o day https://ai.google.dev/gemini-api/docs/models/gemini-embedding-2?hl=vi\n)\n#tao vectorDB\ndb = Chroma.from_documents(\n    documents=chunks,",
+        "detail": "google_model.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "chunks",
+        "kind": 5,
+        "importPath": "google_model.ingest",
+        "description": "google_model.ingest",
+        "peekOfCode": "chunks = phanchiaMarkDown.split_documents(documents)\n#Nhung Googel AI \nembedding = GoogleGenerativeAIEmbeddings(\n    model=\"models/gemini-embedding-2\" #model embedding chuyen doc pdf \n    #chi tiet model o day https://ai.google.dev/gemini-api/docs/models/gemini-embedding-2?hl=vi\n)\n#tao vectorDB\ndb = Chroma.from_documents(\n    documents=chunks,\n    embedding=embedding,",
+        "detail": "google_model.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "embedding",
+        "kind": 5,
+        "importPath": "google_model.ingest",
+        "description": "google_model.ingest",
+        "peekOfCode": "embedding = GoogleGenerativeAIEmbeddings(\n    model=\"models/gemini-embedding-2\" #model embedding chuyen doc pdf \n    #chi tiet model o day https://ai.google.dev/gemini-api/docs/models/gemini-embedding-2?hl=vi\n)\n#tao vectorDB\ndb = Chroma.from_documents(\n    documents=chunks,\n    embedding=embedding,\n    persist_directory=\"vector_db\"\n)",
+        "detail": "google_model.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "google_model.ingest",
+        "description": "google_model.ingest",
+        "peekOfCode": "db = Chroma.from_documents(\n    documents=chunks,\n    embedding=embedding,\n    persist_directory=\"vector_db\"\n)\ndb.persist()\nprint(\"Đa tao thanh cong vector database\",len(chunks))",
+        "detail": "google_model.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "Question",
+        "kind": 6,
+        "importPath": "google_model.main",
+        "description": "google_model.main",
+        "peekOfCode": "class Question(BaseModel):\n    text:str\n@app.get(\"/\")\ndef home():\n    return {\n        \"status\":\"running\"\n    }\n@app.post(\"/chat\")\ndef chat(\n    q:Question",
+        "detail": "google_model.main",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "google_model.main",
+        "description": "google_model.main",
+        "peekOfCode": "def home():\n    return {\n        \"status\":\"running\"\n    }\n@app.post(\"/chat\")\ndef chat(\n    q:Question\n):\n    answer=ask(\n        q.text",
+        "detail": "google_model.main",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "kind": 2,
+        "importPath": "google_model.main",
+        "description": "google_model.main",
+        "peekOfCode": "def chat(\n    q:Question\n):\n    answer=ask(\n        q.text\n    )\n    return {\n        \"question\":q.text,\n        \"answer\":answer\n    }",
+        "detail": "google_model.main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "google_model.model_testAPI",
+        "description": "google_model.model_testAPI",
+        "peekOfCode": "client = genai.Client(\n    api_key=os.getenv(\"GOOGLE_API_KEY\")\n)\nfor model in client.models.list():\n    print(model.name)",
+        "detail": "google_model.model_testAPI",
+        "documentation": {}
+    },
+    {
+        "label": "ask",
+        "kind": 2,
+        "importPath": "google_model.rag",
+        "description": "google_model.rag",
+        "peekOfCode": "def ask(question):\n    docs = retriever.invoke(question) #goi model\n    context=\"\\n\\n\".join(\n        [\n            d.page_content\n            for d in docs\n        ]\n    )\n    prompt=f\"\"\"\n        Bạn là chuyên gia về kiểm thử phần mềm. Chỉ trả lời dựa trên dữ liệu bên dưới. ",
+        "detail": "google_model.rag",
+        "documentation": {}
+    },
+    {
+        "label": "embedding",
+        "kind": 5,
+        "importPath": "google_model.rag",
+        "description": "google_model.rag",
+        "peekOfCode": "embedding = GoogleGenerativeAIEmbeddings(\n    model = \"models/gemini-embedding-2\"\n)\ndb= Chroma(\n    persist_directory=\"vector_db\",\n    embedding_function=embedding\n)\nretriever = db.as_retriever(\n    search_kwargs={\"k\":3}\n)",
+        "detail": "google_model.rag",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "google_model.rag",
+        "description": "google_model.rag",
+        "peekOfCode": "retriever = db.as_retriever(\n    search_kwargs={\"k\":3}\n)\nllm = ChatGoogleGenerativeAI(\n    model=\"gemini-2.5-flash-lite\",\n    temperature=0\n)\ndef ask(question):\n    docs = retriever.invoke(question) #goi model\n    context=\"\\n\\n\".join(",
+        "detail": "google_model.rag",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "google_model.rag",
+        "description": "google_model.rag",
+        "peekOfCode": "llm = ChatGoogleGenerativeAI(\n    model=\"gemini-2.5-flash-lite\",\n    temperature=0\n)\ndef ask(question):\n    docs = retriever.invoke(question) #goi model\n    context=\"\\n\\n\".join(\n        [\n            d.page_content\n            for d in docs",
+        "detail": "google_model.rag",
+        "documentation": {}
+    },
+    {
+        "label": "BM25OkapiIndex",
+        "kind": 6,
+        "importPath": "rag_core.bm25",
+        "description": "rag_core.bm25",
+        "peekOfCode": "class BM25OkapiIndex:\n    \"\"\"\n    Cài đặt thuật toán Okapi BM25 thuần Python phục vụ Keyword/Sparse Search.\n    Hỗ trợ lưu trữ (persist) và nạp lại (load) từ file pickle.\n    \"\"\"\n    def __init__(self, k1: float = 1.5, b: float = 0.75):\n        self.k1 = k1\n        self.b = b\n        self.corpus_size = 0\n        self.avgdl = 0.0",
+        "detail": "rag_core.bm25",
+        "documentation": {}
+    },
+    {
+        "label": "LegalChunk",
+        "kind": 6,
+        "importPath": "rag_core.chunker",
+        "description": "rag_core.chunker",
+        "peekOfCode": "class LegalChunk:\n    content: str\n    metadata: Dict[str, Any]\n    def to_dict(self) -> Dict[str, Any]:\n        return {\n            \"content\": self.content,\n            \"metadata\": self.metadata\n        }\nclass LegalStructureAwareChunker:\n    \"\"\"",
+        "detail": "rag_core.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "LegalStructureAwareChunker",
+        "kind": 6,
+        "importPath": "rag_core.chunker",
+        "description": "rag_core.chunker",
+        "peekOfCode": "class LegalStructureAwareChunker:\n    \"\"\"\n    Bộ phân tách văn bản chuyên biệt cho văn bản quy phạm pháp luật định dạng Markdown.\n    Tự động bóc tách: Tiêu đề văn bản, Số hiệu, Tình trạng hiệu lực, Chương, Mục, Điều.\n    Gắn Context Header vào từng chunk để bảo toàn trọn vẹn ngữ cảnh khi truy xuất.\n    \"\"\"\n    def __init__(self, max_chunk_size: int = 1200, chunk_overlap: int = 150):\n        self.max_chunk_size = max_chunk_size\n        self.chunk_overlap = chunk_overlap\n    def parse_file(self, file_path: Path | str) -> List[LegalChunk]:",
+        "detail": "rag_core.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "LegalRAGEngine",
+        "kind": 6,
+        "importPath": "rag_core.engine",
+        "description": "rag_core.engine",
+        "peekOfCode": "class LegalRAGEngine:\n    \"\"\"\n    RAG Engine:\n    - LLM: Gọi Gemini thông qua 9router (chuẩn OpenAI: LLM_API_KEY & LLM_BASE_URL)\n    - Retrieval: Hybrid (ChromaDB với OpenAI Embedding: EMBEDDING_API_KEY + BM25 Okapi)\n    \"\"\"\n    def __init__(self):\n        self.retriever = HybridLegalRetriever(top_k=settings.TOP_K)\n        self.llm = None\n        self._init_llm()",
+        "detail": "rag_core.engine",
+        "documentation": {}
+    },
+    {
+        "label": "format_context",
+        "kind": 2,
+        "importPath": "rag_core.engine",
+        "description": "rag_core.engine",
+        "peekOfCode": "def format_context(retrieved_docs: List[Dict[str, Any]]) -> str:\n    \"\"\"Format danh sách context documents thành chuỗi văn bản có cấu trúc rõ ràng\"\"\"\n    context_blocks = []\n    for idx, doc in enumerate(retrieved_docs, start=1):\n        content = doc.get(\"content\", \"\").strip()\n        meta = doc.get(\"metadata\", {})\n        doc_title = meta.get(\"doc_title\", \"Không rõ\")\n        doc_code = meta.get(\"doc_code\", \"Không rõ\")\n        status = meta.get(\"status\", \"Không rõ\")\n        article = meta.get(\"article\", \"\")",
+        "detail": "rag_core.engine",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "rag_core.engine",
+        "description": "rag_core.engine",
+        "peekOfCode": "SYSTEM_PROMPT = \"\"\"Bạn là Cố vấn Pháp lý cao cấp chuyên sâu về Pháp luật Công nghệ số, Trí tuệ nhân tạo (AI) và An ninh mạng Việt Nam.\nNhiệm vụ của bạn là giải đáp câu hỏi của người dùng một cách chính xác, minh bạch và có căn cứ pháp lý rõ ràng.\nHƯỚNG DẪN QUAN TRỌNG:\n1. NGUỒN THÔNG TIN: Chỉ trả lời dựa trên ngữ cảnh (CONTEXT) được cung cấp dưới đây. Không được suy diễn hoặc đưa thông tin không có căn cứ từ bên ngoài tài liệu.\n2. TRÍCH DẪN NGUỒN (CITATIONS): Luôn nêu rõ tên văn bản, số hiệu văn bản và Điều/Khoản cụ thể làm căn cứ cho từng ý (Ví dụ: Theo Điều 2 Nghị định 13/2023/NĐ-CP...).\n3. HIỆU LỰC PHÁP LÝ: Nếu văn bản được trích dẫn có trạng thái \"hết hiệu lực\", bạn PHẢI cảnh báo rõ ràng cho người dùng biết để lưu ý áp dụng.\n4. TÍNH TRUNG THỰC & CHỐNG ẢO GIÁC: Nếu thông tin trong CONTEXT không đề cập hoặc không đủ để trả lời, hãy thông báo thẳng thắn: \"Tài liệu hiện có không chứa thông tin để trả lời câu hỏi này\", tuyệt đối không tự bịa đặt câu trả lời.\n5. ĐỊNH DẠNG: Trình bày mạch lạc bằng Markdown, dùng gạch đầu dòng rõ ràng, dễ hiểu.\n\"\"\"\ndef format_context(retrieved_docs: List[Dict[str, Any]]) -> str:",
+        "detail": "rag_core.engine",
+        "documentation": {}
+    },
+    {
+        "label": "get_embedding_function",
+        "kind": 2,
+        "importPath": "rag_core.indexer",
+        "description": "rag_core.indexer",
+        "peekOfCode": "def get_embedding_function():\n    \"\"\"Khởi tạo OpenAI Embeddings theo cấu hình\"\"\"\n    api_key = settings.get_embedding_api_key()\n    if not api_key:\n        raise ValueError(\n            \"Chưa cấu hình EMBEDDING_API_KEY trong file .env! \"\n            \"Vui lòng mở file .env và điền EMBEDDING_API_KEY (từ OpenAI hoặc Vilao) trước khi đánh chỉ mục.\"\n        )\n    # Tự động thêm tiền tố 'sk-' nếu bị thiếu (ví dụ key từ vilao.ai)\n    if not api_key.startswith(\"sk-\") and len(api_key) > 20:",
+        "detail": "rag_core.indexer",
+        "documentation": {}
+    },
+    {
+        "label": "index_knowledge_base",
+        "kind": 2,
+        "importPath": "rag_core.indexer",
+        "description": "rag_core.indexer",
+        "peekOfCode": "def index_knowledge_base():\n    \"\"\"\n    Tiến hành nạp toàn bộ văn bản trong knowledge_base/, cắt chunk và đánh chỉ mục\n    đồng thời vào ChromaDB (Dense) và BM25 (Sparse).\n    \"\"\"\n    kb_dir = Path(settings.KNOWLEDGE_BASE_DIR)\n    if not kb_dir.exists():\n        raise FileNotFoundError(f\"Không tìm thấy thư mục knowledge base tại: {kb_dir}\")\n    md_files = sorted(list(kb_dir.glob(\"*.md\")))\n    if not md_files:",
+        "detail": "rag_core.indexer",
+        "documentation": {}
+    },
+    {
+        "label": "HybridLegalRetriever",
+        "kind": 6,
+        "importPath": "rag_core.retriever",
+        "description": "rag_core.retriever",
+        "peekOfCode": "class HybridLegalRetriever:\n    \"\"\"\n    Retriever lai ghép (Hybrid Retrieval) kết hợp:\n    1. Dense Vector Search (ChromaDB + OpenAI Embeddings)\n    2. Sparse Keyword Search (BM25 Okapi)\n    Áp dụng thuật toán Reciprocal Rank Fusion (RRF) để xếp hạng tối ưu.\n    \"\"\"\n    def __init__(self, top_k: int = 4, rrf_k: int = 60):\n        self.top_k = top_k\n        self.rrf_k = rrf_k",
+        "detail": "rag_core.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "load_md",
+        "kind": 2,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "def load_md(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        return f.read()\nall_docs = []\nfor md in md_files:\n    text = load_md(md)\n    print(md) #test thôi\n    all_docs.append({\n        \"source\": md,\n        \"text\": text",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "extract_page",
+        "kind": 2,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "def extract_page(text):\n    match = re.search(r\"<page_number>(\\d+)</page_number>\", text)\n    if match:\n        return int(match.group(1))\n    return None\nfor doc in all_docs:\n    split_chunks = phanchiaNguNghia.split_text(doc[\"text\"]) \n    for index, chunk in enumerate(split_chunks):\n        chunks.append(chunk.page_content)\n        metadata.append({",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "md_folder",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "md_folder = r\"C:\\Users\\Duy\\Documents\\MyProject\\chat_service_nckh\\data\"\nmd_files = [\n    os.path.join(md_folder, f)\n    for f in os.listdir(md_folder)\n    if f.endswith(\".md\")\n]\ndef load_md(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        return f.read()\nall_docs = []",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "md_files",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "md_files = [\n    os.path.join(md_folder, f)\n    for f in os.listdir(md_folder)\n    if f.endswith(\".md\")\n]\ndef load_md(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        return f.read()\nall_docs = []\nfor md in md_files:",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "all_docs",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "all_docs = []\nfor md in md_files:\n    text = load_md(md)\n    print(md) #test thôi\n    all_docs.append({\n        \"source\": md,\n        \"text\": text\n    })\nchunks = []\nmetadata = [] #chuẩn bị metadata tốt là rất quan trọng ",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "chunks",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "chunks = []\nmetadata = [] #chuẩn bị metadata tốt là rất quan trọng \n#do cấu trúc page đã bị nhúng vô text rồi nên là dùng cách regex để lấy lại page\ndef extract_page(text):\n    match = re.search(r\"<page_number>(\\d+)</page_number>\", text)\n    if match:\n        return int(match.group(1))\n    return None\nfor doc in all_docs:\n    split_chunks = phanchiaNguNghia.split_text(doc[\"text\"]) ",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "metadata = [] #chuẩn bị metadata tốt là rất quan trọng \n#do cấu trúc page đã bị nhúng vô text rồi nên là dùng cách regex để lấy lại page\ndef extract_page(text):\n    match = re.search(r\"<page_number>(\\d+)</page_number>\", text)\n    if match:\n        return int(match.group(1))\n    return None\nfor doc in all_docs:\n    split_chunks = phanchiaNguNghia.split_text(doc[\"text\"]) \n    for index, chunk in enumerate(split_chunks):",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "model = SentenceTransformer(\"BAAI/bge-m3\")\nembeddings = model.encode(\n    chunks,\n    batch_size=32,\n    show_progress_bar=True\n)\nclient = chromadb.PersistentClient(path=\"chroma_db_split_markdownheader\")\ncollection = client.get_or_create_collection(\"cay_mai_md\")\n#lập chỉ mục\nfor i, chunk in enumerate(chunks):",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "embeddings = model.encode(\n    chunks,\n    batch_size=32,\n    show_progress_bar=True\n)\nclient = chromadb.PersistentClient(path=\"chroma_db_split_markdownheader\")\ncollection = client.get_or_create_collection(\"cay_mai_md\")\n#lập chỉ mục\nfor i, chunk in enumerate(chunks):\n    collection.add(",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "client = chromadb.PersistentClient(path=\"chroma_db_split_markdownheader\")\ncollection = client.get_or_create_collection(\"cay_mai_md\")\n#lập chỉ mục\nfor i, chunk in enumerate(chunks):\n    collection.add(\n        documents=[chunk],\n        embeddings=[embeddings[i].tolist()],\n        ids=[f\"md_chunk_{i}\"],\n        metadatas=[metadata[i]]\n    )",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "rag_indexing.chunking",
+        "description": "rag_indexing.chunking",
+        "peekOfCode": "collection = client.get_or_create_collection(\"cay_mai_md\")\n#lập chỉ mục\nfor i, chunk in enumerate(chunks):\n    collection.add(\n        documents=[chunk],\n        embeddings=[embeddings[i].tolist()],\n        ids=[f\"md_chunk_{i}\"],\n        metadatas=[metadata[i]]\n    )",
+        "detail": "rag_indexing.chunking",
+        "documentation": {}
+    },
+    {
+        "label": "check_dependencies",
+        "kind": 2,
+        "importPath": "check_deps",
+        "description": "check_deps",
+        "peekOfCode": "def check_dependencies():\n    print(\"=\" * 60)\n    print(\"        KIỂM TRA THƯ VIỆN CHO HỆ THỐNG RAG\")\n    print(\"=\" * 60)\n    missing_packages = []\n    for pip_name, import_name in REQUIRED_PACKAGES:\n        try:\n            mod = __import__(import_name)\n            ver = getattr(mod, \"__version__\", \"OK\")\n            print(f\"  [✔] {pip_name:<25} -> Đã cài (v{ver})\")",
+        "detail": "check_deps",
+        "documentation": {}
+    },
+    {
+        "label": "REQUIRED_PACKAGES",
+        "kind": 5,
+        "importPath": "check_deps",
+        "description": "check_deps",
+        "peekOfCode": "REQUIRED_PACKAGES = [\n    (\"fastapi\", \"fastapi\"),\n    (\"uvicorn\", \"uvicorn\"),\n    (\"pydantic\", \"pydantic\"),\n    (\"pydantic-settings\", \"pydantic_settings\"),\n    (\"python-dotenv\", \"dotenv\"),\n    (\"openai\", \"openai\"),\n    (\"langchain-core\", \"langchain_core\"),\n    (\"langchain-community\", \"langchain_community\"),\n    (\"langchain-openai\", \"langchain_openai\"),",
+        "detail": "check_deps",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "test_query",
+        "description": "test_query",
+        "peekOfCode": "def main():\n    print(\"=\" * 60)\n    print(\"   HỆ THỐNG TRỢ LÝ PHÁP LUẬT AI & AN NINH MẠNG VIỆT NAM   \")\n    print(\"=\" * 60)\n    print(\"1. LLM (Chat): 9router -> Gemini\")\n    print(f\"   - Model: {settings.LLM_MODEL}\")\n    print(f\"   - Base URL: {settings.get_llm_base_url() or 'Chưa điền LLM_BASE_URL'}\")\n    print(f\"   - API Key: {'Đã cấu hình' if settings.get_llm_api_key() else 'CHƯA CẤU HÌNH LLM_API_KEY'}\")\n    print(\"2. Embedding: OpenAI\")\n    print(f\"   - Model: {settings.EMBEDDING_MODEL}\")",
+        "detail": "test_query",
+        "documentation": {}
+    }
+]
