@@ -1,0 +1,402 @@
+{
+  "care_nam_hong_01": {
+    "question_id": "care_nam_hong_01",
+    "faithfulness": 0.9230769230769231,
+    "response_relevancy": 0.8451510779908024,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.2
+  },
+  "care_ridomil_gold_01": {
+    "question_id": "care_ridomil_gold_01",
+    "faithfulness": 0.0,
+    "response_relevancy": 0.9736696120025178,
+    "context_recall": 1.0,
+    "context_precision": 0.36666666664833336,
+    "factual_correctness": 0.18
+  },
+  "care_bon_phan_01": {
+    "question_id": "care_bon_phan_01",
+    "faithfulness": 0.875,
+    "response_relevancy": 0.9900057310508524,
+    "context_recall": 1.0,
+    "context_precision": 0.99999999995,
+    "factual_correctness": 0.5
+  },
+  "care_tuoi_nuoc_01": {
+    "question_id": "care_tuoi_nuoc_01",
+    "faithfulness": 0.0,
+    "response_relevancy": 0.9629522376255643,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.46
+  },
+  "care_nam_re_01": {
+    "question_id": "care_nam_re_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8606309568541171,
+    "context_recall": 0.5,
+    "context_precision": 0.19999999998,
+    "factual_correctness": 0.29
+  },
+  "disease_nam_hong_01": {
+    "question_id": "disease_nam_hong_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9097596253585437,
+    "context_recall": 1.0,
+    "context_precision": 0.49999999995,
+    "factual_correctness": 0.5
+  },
+  "disease_bo_tri_01": {
+    "question_id": "disease_bo_tri_01",
+    "faithfulness": 0.8,
+    "response_relevancy": 0.9371609159968507,
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "disease_nam_re_01": {
+    "question_id": "disease_nam_re_01",
+    "faithfulness": 0.0,
+    "response_relevancy": 0.8626777924045533,
+    "context_recall": 0.5,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "disease_dom_la_01": {
+    "question_id": "disease_dom_la_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8766318736780794,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.57
+  },
+  "disease_rep_sap_01": {
+    "question_id": "disease_rep_sap_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9187358790918789,
+    "context_recall": 1.0,
+    "context_precision": 0.49999999995,
+    "factual_correctness": 0.29
+  },
+  "mixed_rep_sap_01": {
+    "question_id": "mixed_rep_sap_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.909748780328737,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.33
+  },
+  "mixed_nam_hong_01": {
+    "question_id": "mixed_nam_hong_01",
+    "faithfulness": 0.0,
+    "response_relevancy": 0.9363468328741252,
+    "context_recall": 1.0,
+    "context_precision": 0.3333333333,
+    "factual_correctness": 0.27
+  },
+  "mixed_ung_re_01": {
+    "question_id": "mixed_ung_re_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9498610887089431,
+    "context_recall": 0.5,
+    "context_precision": 0.99999999995,
+    "factual_correctness": 0.0
+  },
+  "mixed_tuoi_01": {
+    "question_id": "mixed_tuoi_01",
+    "faithfulness": 0.0,
+    "response_relevancy": 0.8415141419926012,
+    "context_recall": 1.0,
+    "context_precision": 0.7499999999625,
+    "factual_correctness": 0.0
+  },
+  "general_dat_01": {
+    "question_id": "general_dat_01",
+    "faithfulness": 0.9090909090909091,
+    "response_relevancy": 0.8549214342514362,
+    "context_recall": 1.0,
+    "context_precision": 0.99999999995,
+    "factual_correctness": 0.44
+  },
+  "general_tuoi_01": {
+    "question_id": "general_tuoi_01",
+    "faithfulness": 0.3333333333333333,
+    "response_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "general_ghep_01": {
+    "question_id": "general_ghep_01",
+    "faithfulness": 0.5,
+    "response_relevancy": 0.7618368354548911,
+    "context_recall": 1.0,
+    "context_precision": 0.5833333333041666,
+    "factual_correctness": 0.44
+  },
+  "mixed_sau_01": {
+    "question_id": "mixed_sau_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.0,
+    "context_recall": 0.5,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "general_mai_tu_quy_01": {
+    "question_id": "general_mai_tu_quy_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8250871425589721,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 1.0
+  },
+  "care_nhen_do_01": {
+    "question_id": "care_nhen_do_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9473622827947773,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.0
+  },
+  "general_insufficient_01": {
+    "question_id": "general_insufficient_01",
+    "faithfulness": 0.8,
+    "response_relevancy": 0.9033371491507508,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999666667,
+    "factual_correctness": 0.75
+  },
+  "care_bo_tri_lon_thuoc_01": {
+    "question_id": "care_bo_tri_lon_thuoc_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8135714055086147,
+    "context_recall": 0.0,
+    "context_precision": 0.7555555555303703,
+    "factual_correctness": 0.0
+  },
+  "care_ridomil_chat_trong_01": {
+    "question_id": "care_ridomil_chat_trong_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8961948130268932,
+    "context_recall": 0.5,
+    "context_precision": 0.4499999999775,
+    "factual_correctness": 0.57
+  },
+  "care_thao_boc_sau_ghep_01": {
+    "question_id": "care_thao_boc_sau_ghep_01",
+    "faithfulness": 0.8888888888888888,
+    "response_relevancy": 0.8781496391396961,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.83
+  },
+  "care_xu_ly_xo_dua_01": {
+    "question_id": "care_xu_ly_xo_dua_01",
+    "faithfulness": 0.8461538461538461,
+    "response_relevancy": 0.8869896594688326,
+    "context_recall": 1.0,
+    "context_precision": 0.19999999998,
+    "factual_correctness": 0.57
+  },
+  "care_cat_don_sau_tet_01": {
+    "question_id": "care_cat_don_sau_tet_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8824409490041261,
+    "context_recall": 1.0,
+    "context_precision": 0.49999999995,
+    "factual_correctness": 0.67
+  },
+  "care_mua_mua_tuoi_nuoc_01": {
+    "question_id": "care_mua_mua_tuoi_nuoc_01",
+    "faithfulness": 0.5714285714285714,
+    "response_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "care_bon_phan_4_giai_doan_01": {
+    "question_id": "care_bon_phan_4_giai_doan_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9208410357453548,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.67
+  },
+  "disease_nhen_do_01": {
+    "question_id": "disease_nhen_do_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9512778506460707,
+    "context_recall": 0.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.2
+  },
+  "disease_sau_duc_than_01": {
+    "question_id": "disease_sau_duc_than_01",
+    "faithfulness": 0.75,
+    "response_relevancy": 0.8632295768597049,
+    "context_recall": 1.0,
+    "context_precision": 0.49999999995,
+    "factual_correctness": 0.5
+  },
+  "disease_ri_sat_01": {
+    "question_id": "disease_ri_sat_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9236819688730059,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.5
+  },
+  "disease_than_thu_01": {
+    "question_id": "disease_than_thu_01",
+    "faithfulness": 0.0,
+    "response_relevancy": 0.9250384082069545,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.36
+  },
+  "disease_nam_la_vs_than_re_01": {
+    "question_id": "disease_nam_la_vs_than_re_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8439732743140682,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.4
+  },
+  "disease_chay_nang_la_01": {
+    "question_id": "disease_chay_nang_la_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8429219771152859,
+    "context_recall": 1.0,
+    "context_precision": 0.99999999995,
+    "factual_correctness": 0.5
+  },
+  "disease_nong_re_n3m_01": {
+    "question_id": "disease_nong_re_n3m_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9424250449870535,
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "mixed_bo_tri_mua_nang_01": {
+    "question_id": "mixed_bo_tri_mua_nang_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8970055695451957,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.8
+  },
+  "mixed_chay_nang_co_nguy_hiem_01": {
+    "question_id": "mixed_chay_nang_co_nguy_hiem_01",
+    "faithfulness": 0.42857142857142855,
+    "response_relevancy": 0.9554780990036894,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 1.0
+  },
+  "mixed_phan_biet_du_thieu_nuoc_01": {
+    "question_id": "mixed_phan_biet_du_thieu_nuoc_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9857455107719842,
+    "context_recall": 1.0,
+    "context_precision": 0.49999999995,
+    "factual_correctness": 0.0
+  },
+  "mixed_tai_su_dung_chat_trong_01": {
+    "question_id": "mixed_tai_su_dung_chat_trong_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.7809827694216489,
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "mixed_xu_ly_rung_nu_01": {
+    "question_id": "mixed_xu_ly_rung_nu_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9090255890411721,
+    "context_recall": 1.0,
+    "context_precision": 0.249999999975,
+    "factual_correctness": 0.91
+  },
+  "mixed_xu_ly_chau_qua_lon_01": {
+    "question_id": "mixed_xu_ly_chau_qua_lon_01",
+    "faithfulness": 0.0,
+    "response_relevancy": 0.8244675910554244,
+    "context_recall": 0.5,
+    "context_precision": 0.49999999995,
+    "factual_correctness": 0.2
+  },
+  "mixed_mot_loai_phan_quanh_nam_01": {
+    "question_id": "mixed_mot_loai_phan_quanh_nam_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9814202327636734,
+    "context_recall": 0.0,
+    "context_precision": 0.19999999998,
+    "factual_correctness": 0.0
+  },
+  "mixed_sai_lam_bon_phan_sau_tet_01": {
+    "question_id": "mixed_sai_lam_bon_phan_sau_tet_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8266864728438097,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.5
+  },
+  "general_mai_zin_vs_ghep_01": {
+    "question_id": "general_mai_zin_vs_ghep_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9802276836177836,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.67
+  },
+  "general_mai_giao_vs_cuc_01": {
+    "question_id": "general_mai_giao_vs_cuc_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9630272762454608,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.71
+  },
+  "general_nguyen_tac_dao_ghep_01": {
+    "question_id": "general_nguyen_tac_dao_ghep_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "factual_correctness": 0.0
+  },
+  "general_uu_tien_bo_ghep_01": {
+    "question_id": "general_uu_tien_bo_ghep_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.9922276183102989,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.8
+  },
+  "general_dinh_duong_giai_doan_4_01": {
+    "question_id": "general_dinh_duong_giai_doan_4_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8156906489408062,
+    "context_recall": 1.0,
+    "context_precision": 0.99999999995,
+    "factual_correctness": 0.67
+  },
+  "general_tinh_gia_tri_phoi_01": {
+    "question_id": "general_tinh_gia_tri_phoi_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.8438529522330362,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.86
+  },
+  "general_thuan_chau_tuoi_nuoc_01": {
+    "question_id": "general_thuan_chau_tuoi_nuoc_01",
+    "faithfulness": 1.0,
+    "response_relevancy": 0.810406567942792,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999,
+    "factual_correctness": 0.86
+  }
+}

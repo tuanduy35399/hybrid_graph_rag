@@ -1,36 +1,3 @@
-# from llama_index.core.indices.property_graph import PropertyGraphIndex, SchemaLLMPathExtractor
-# from indexing.graph.graph_schema import entities, relations
-
-# class GraphBuilder:
-    
-#     def __init__(self, llm, embed_model, graph_store):
-#         self.llm = llm
-#         self.embed_model = embed_model
-#         self.graph_store = graph_store
-    
-#     def build(self, nodes):
-#         print("GraphBuilder bat dau")
-#         extractor = SchemaLLMPathExtractor(
-#             llm=self.llm, 
-#             possible_entities=entities,      # kiểu Literal, không phải list
-#             possible_relations=relations,    # kiểu Literal, không phải list
-#             strict=False,
-#         )
-#         print("Extractor tao xong")
-#         graph= PropertyGraphIndex(
-#             nodes=nodes,
-#             llm=self.llm,
-#             embed_model=self.embed_model,
-#             property_graph_store=self.graph_store,
-#             kg_extractors=[extractor],
-                # show_progress=True,
-#         )
-#         print("Thong so o buoc PropertyGraphIndex thuoc file graph_builder.py")
-#         print(type(nodes))
-#         print(len(nodes))
-#         print(type(nodes[0]))
-#         print("Graph build xong")
-#         return graph
 import pickle
 import os
 import hashlib

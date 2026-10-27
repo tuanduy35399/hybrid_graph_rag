@@ -1,0 +1,112 @@
+[
+  {
+    "question_id": "care_nam_hong_01",
+    "system": "hybridrag",
+    "answer": "Chào bà con, để điều trị dứt điểm bệnh nấm hồng trên cây mai vàng, bà con có thể thực hiện theo các bước cụ thể sau đây:\n\n**1. Hướng dẫn cách xử lý:**\n* **Bước 1 (Pha thuốc):** Bà con tiến hành pha thuốc nấm COC85 với tỷ lệ 10 gram cho 50 ml nước. Nếu thời tiết đang là mùa nắng, bà con có thể thay thế bằng thuốc CHAMPION 77WP. \n* **Bước 2 (Quét thuốc):** Dùng cọ, bàn chải hoặc khăn vải thấm hỗn hợp thuốc đã pha rồi quét trực tiếp lên các vị trí thân và cành bị nấm hồng tấn công. \n* **Bước 3 (Kiểm tra lại):** Sau khoảng 5 đến 10 ngày, bà con kiểm tra xem vết nấm đã cháy hoặc chết hẳn chưa. Nếu chưa chết thì tiếp tục quét thuốc lần nữa. Nếu nấm đã chết, bà con tiến hành pha thuốc nấm (như RIDOMIL GOLD hoặc Anvil) để xịt phòng ngừa cho toàn bộ thân, cành và lá.\n* **Bước 4 (Phòng ngừa tái phát):** Về lâu dài, bà con cần thường xuyên xịt thuốc nấm ướt đều phần thân, cành và gốc để ngăn chặn nấm hồng quay trở lại, đặc biệt là vào mùa mưa hoặc những khi độ ẩm không khí cao.\n\n*Lưu ý thêm:* Đối với các cành nhánh bị nấm hồng nặng, nếu thấy thuận tiện và không làm ảnh hưởng đến hình dáng tàng nhánh của cây, bà con có thể cắt bỏ đi nhưng nhớ phải đem tiêu hủy (đốt hoặc cho vào bao nilon bỏ đi xa vườn) để tránh lây lan. Riêng với phần lá bị bệnh, không nên lặt bỏ vì lá vẫn có thể quang hợp tạo dinh dưỡng cho cây (trừ các thời điểm lặt lá định kỳ vào giữa năm hoặc dịp Tết).\n\nĐể em có thể tư vấn sát hơn cho vườn mai của mình, bà con cho em hỏi thêm một vài thông tin nhé:\n* Cây mai nhà mình hiện đang trồng ở khu vực thông thoáng hay bị rợp mát, um tùm?\n* Thời tiết tại vườn nhà mình hiện nay có đang mưa nhiều hay độ ẩm cao không ạ?",
+    "retrieved_contexts": [
+      {
+        "rank": 1,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "### 3. CÁC BƯỚC TRỊ BỆNH NẤM HỒNG:\n\n**BƯỚC 01:** Pha Thuốc Nấm (pha COC85 10Ggram/ 50ml nước). Có thể thay thế bằng CHAMPION 77WP nấm hồng.\n\nLê Việt logo and phone number\n\n<page_number>34</page_number>\n\nTài liệu lưu hành nội bộ\n\n<u>Bộ 99 câu hỏi về Chăm Sóc Mai Vàng</u>\n\n**BƯỚC 02:** Dùng cọ/ bàn chải/ vải... quét hỗn hợp thuốc nấm đã pha lên thân/ cành (vị trí bị nấm hồng).\n\n**Lưu Ý:** Mùa mưa thì xài COC85 ổn hơn, nếu mùa nắng thì xài CHAMPION 77WP nấm hồng hiệu quả hơn.\n\n**BƯỚC 03:** Sau 05-10 ngày kiểm tra lại vết quét thuốc, xem nấm hồng đã cháy/ chết hay chưa. Nếu chưa tiếp tục quét thuốc, nếu đã cháy/ chết rồi thì tiến hành pha thuốc nấm (RIDOMIL GOLD hoặc Anvil) xịt lên thân cành lá để phòng nấm hồng.\n\n**BƯỚC 04:** Sau khi đã diệt được nấm hồng thì lưu ý cây mai đó, khi xịt thuốc nấm thường xuyên xịt ướt thân cành gốc để phòng ngừa nấm hồng quay trở lại.\n\n**<u>CÁC BƯỚC TRỊ BỆNH NẤM HỒNG:</u>**\n\n```mermaid\ngraph TD\n Start((CÁC BƯỚCTRỊ NẤM HỒNG)) --> Step1[KIỂM TRACHI CÀNH + LÁ>> PHÁT HIỆN NẤM HỒNG]\n Step1 --> Step2[PHA THUỐC NẤMDÙNG CỌ, BÀN CHẢIQUÉT LÊN CHI CÀNH BỊ NẤM]\n Step2 --> Step3[SAU 05 - 10 NGÀYKIỂM TRA CHI CÀNH BỊ NẤM]\n\n Step3 -- HẾT NẤM --> Step4[TIẾN HÀNH XỊT THUỐCPHÒNG NẤM LÊNLÁ - CHI - THÂN]\n Step3 -- VẪN CHƯA HẾT --> Step5[TIẾP TỤCPHA THUỐC QUÉT LẦN 02]\n Step5 --> Step3\n\n Step4 --> Step6[LƯU Ý CÂY DỄ BỊNẤM HỒNG>> THEO DÕI, XỊT NẤM ĐỀU]\n\n subgraph Formula [Pha Thuốc]\n F1[RIDOMIL GOLD PHA10GRAM/ 50-100ML NƯỚC]\n F2[COC85 PHA10GRAM/ 70-100ML NƯỚC]\n end\n```\n\n**<u>SO SÁNH COC85 & CHAMPION</u>**\n\nCHAMPION mạnh hơn, COC85 bám dính mạnh vào mùa mưa, Quý Cô Chú Anh Chị cân nhắc sử dụng cho phù hợp.\n\nLÊ VIỆT Mai vàng Bình Tân logo\n\n<page_number>35</page_number>\n\nTài liệu lưu hành nội bộ\n\nBộ 99 câu hỏi về Chăm Sóc Mai Vàng\n\nLÊ VIỆT Mai vàng & Bonsai logo",
+        "score": 0.991668701171875
+      },
+      {
+        "rank": 2,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "## 2. YẾU TỐ ẢNH HƯỞNG:\n\n**GIỐNG CÂY/ GIỐNG GHÉP:**\n\nLÊ VIỆT Mai vàng & Bonsai logo with phone number 0938.93.43.23\n\n<page_number>33</page_number>\n\nTài liệu lưu hành nội bộ\n\n<u>Bộ 99 câu hỏi về Chăm Sóc Mai Vàng</u>\n\n- Một số giống mai dễ bị nấm hồng hơn các giống khác. Tức là khi chơi mai, Quý Cô Chú Anh Chị nếu đã phát hiện nấm hồng trên cây mai của mình, thì sau này khi chăm sóc cây đó, thì phải áp dụng biện pháp phòng ngừa với lịch thường xuyên hơn so với bình thường.\n\n- *Ví dụ:* Một số giống mai đột biến như: mai dảo xoắn dảo cam, dảo cúc cam... hoặc mai vàng zin, thường nhạy cảm với nấm hồng hơn so với các giống mai thông thường.\n\n**THỜI TIẾT MÙA MƯA & ĐỘ ẨM CAO:**\n\n- Thời tiết ẩm thấp, mưa nhiều tăng khả năng tái phát nấm hồng & khi đó nấm hồng lây lan rất nhanh.\n\n- Nếu cây trồng trong môi trường không thông thoáng, độ ẩm cao. Hoặc cây um tùm, tàng nhánh kín, thì khả năng tái phát nấm hồng cũng rất cao.\n\n**XỬ LÝ SAO VỚI LÁ/ THÂN BỊ NẤM HỒNG:**\n\n- Trường hợp lá đã bị nấm hồng thì không lải lá trừ 02 trường hợp: một là, lải lá/ rong lá vào giữa năm; hai là, hạ lá vào dịp Tết. Không nên lải lá vì nó xấu, vì lá có bệnh thì nó cũng quang hợp được vào tạo dinh dưỡng cho cây mai.\n\n- Một số Quý Cô Chú Anh Chị nhờ e tư vấn có hỏi là có thể cắt bỏ cành nhánh bị nấm hồng đó hay không? Nếu tiện và không ảnh hưởng gì đến tàng nhánh cây mai, thì Quý Cô Chú Anh Chị hoàn toàn có thể cắt bỏ, nhưng lưu ý, cành nhánh đó phải được tiêu hủy (đốt) hoặc bỏ bao nilon đem đi bỏ ở xa vườn nhà.",
+        "score": 0.8790186643600464
+      },
+      {
+        "rank": 3,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "# Hướng Dẫn CHI TIẾT TRỊ NẤM HỒNG trên CÂY MAI\n\nNấm hồng là bệnh nấm phổ biến và nguy hiểm nhất (trên thân & lá) của cây mai, vì khác với nhiều bệnh nấm khác chỉ làm hư lá, nấm hồng có thể: **gây nứt da, lột vỏ, bỏ chi. Nó sẽ làm hư toàn bộ bộ lá trên chi cành bị bệnh** (các bệnh khác có thể chỉ ảnh hưởng đến vài lá). Và nếu không phát hiện và xử lý sớm, *chi cành bị nấm có thể khô & chết, và làm suy cây rất nhanh.*",
+        "score": 0.5532078742980957
+      },
+      {
+        "rank": 4,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "# Triệu chứng NÓNG RỄ do RIDOMIL GOLD & N3M\n\nTriệu chứng nóng rễ do sử dụng dưỡng rễ N3M hoặc RIDOMIL GOLD không phải là bệnh mà do cây mai không phù hợp với các loại thuốc này hoặc do quá trình sử dụng bị quá liều, hoặc xài hàng giả/ nhái. Tình trạng này dẫn đến nóng rễ, gây vàng lá, biểu hiện rõ như nấm hồng.\n\n* **Biểu hiện trên lá:** Nếu nhìn sơ qua, triệu chứng này có thể giống bệnh nấm hồng. Tuy nhiên, nếu quan sát kỹ, màu vàng trên lá sẽ cân đối hai bên lá, trong khi nấm hồng thường chỉ làm vàng một bên lá, còn bên kia ít bị hơn (xem hình minh họa nấm hồng & nóng rễ do N3M hoặc RIDOMIL GOLD).\n\nThêm vào đó, triệu chứng nóng rễ và vàng lá do RIDOMIL GOLD và dưỡng rễ N3M thường xuất hiện trên lá của toàn bộ cây hoặc phần lớn cành nhánh trên cây, không tập trung ở lá trên cành hoặc nhánh cụ thể như ở bệnh nấm hồng.\n\n✓ Hiện tượng nóng rễ - vàng lá không phải là bệnh, mà do lạm dụng thuốc. Để khắc phục, quý cô chú, anh chị cần giảm hoặc ngừng hẳn sử dụng các loại thuốc này.\n\n* Kiểm tra lại dưỡng rễ N3M hoặc RIDOMIL GOLD: xem hàng chính hãng hay không, có sử dụng quá liều hay không, có tưới nhiều không.\n\n* Giảm liều lượng: Nếu đang pha 2 gam trên 1 lít nước (đối với cả hai loại), thì có thể giảm xuống còn khoảng 01 gam/lít. Hoặc, nếu tưới 02 lít đã pha thuốc cho cây chậu 60cm lọt lòng, thì giảm lại, chỉ tưới 01 lít trong các lần sau đó.\n\nLÊ VIỆT Mai vàng & Bonsai 0938.93.43.23 logo\n\n<page_number>\n44\n</page_number>\n\nTài liệu lưu hành nội bộ\n\n<u>Bộ 99 câu hỏi về Chăm Sóc Mai Vàng</u>\n\n* **Tăng khoảng cách giữa các lần tưới:** Nếu lịch tưới là 7-10 ngày, có thể kéo dài ra khoảng 15-20 ngày giữa các lần tưới. Lưu ý **RIDOMIL GOLD** là thuốc phòng trị nấm không phải dưỡng rễ, chỉ sử dụng nhiều nhất 1 lần/ 1 tháng.\n\n* Kết hợp giảm liều lượng và kéo dài thời gian tưới sẽ giúp giảm triệu chứng nóng rễ.\n\n- Nếu cây vẫn không cải thiện hoặc muốn thay đổi thuốc, có thể sử dụng các loại dưỡng rễ hữu cơ (**Root2, Terrasorb 4 Root, Rootplex...**) khác hoặc thuốc nấm tưới gốc Trichoderma hoặc Metalaxyl... để thay cho N3M và RIDOMIL GOLD.\n\nTrong trường hợp cây bị trên diện rộng và cần xử lý ngay, quý cô chú, anh chị có thể tham khảo phương án sử dụng **B12** để xử lý cây bị ngộ độc phân thuốc hoặc thuốc diệt cỏ (ở trang 61). Cách làm này giúp cây nhanh chóng phục hồi, giảm thiểu tác hại do nóng rễ gây ra.\n\n\\*\\*\\* *Một số loại dưỡng rễ gốc NPK hoặc thuốc nấm tưới gốc khác cũng dẫn đến tình trạng bệnh tương tự.*",
+        "score": 0.291630357503891
+      },
+      {
+        "rank": 5,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "### NẤM HỒNG là NGUY HIỂM NHẤT\n\nTrong các loại nấm trên thân mai vàng, nấm hồng là nguy hiểm nhất, cần theo dõi và ưu tiên xử lý sớm khi phát hiện. Xem Hướng dẫn trị nấm hồng cụ thể ở câu số 18 (trang 33)",
+        "score": 0.09246105700731277
+      }
+    ],
+    "citations": [],
+    "latency_ms": 22176.027199999226,
+    "error": null
+  },
+  {
+    "question_id": "care_ridomil_gold_01",
+    "system": "hybridrag",
+    "answer": "Cách sử dụng thuốc Ridomil Gold cho cây mai vàng được chia theo từng mục đích cụ thể như sau:\n\n**1. Quét thân cây (phòng và trị bệnh):**\n- **Phòng bệnh (quét định kỳ sau Tết, trước và sau mùa mưa):** Pha 10g Ridomil Gold với 100ml nước, dùng cọ hoặc bàn chải quét đều lên thân cây.\n- **Trị bệnh (khi phát hiện nấm hồng, địa y trên thân):** Pha 10g Ridomil Gold với 50ml nước, quét trực tiếp vào vùng bị bệnh. Sau 5–10 ngày, nên xịt thêm thuốc nấm Anvil hoặc Ridomil Gold ướt đẫm toàn bộ thân, chi, cành, lá để hạn chế tái phát.\n\n**2. Xịt lá và thân:**\n- **Phòng bệnh:** Pha 1–2g Ridomil Gold với 1 lít nước. Xịt lần đầu khi lá non ở cơi thứ 2 xuất hiện. Vào cao điểm mùa mưa, có thể xịt xen kẽ với Anvil theo lịch 20 ngày/lần.\n- **Trị bệnh trên lá:** Khi phát hiện bệnh, có thể dùng COC85 trước, sau đó chuyển sang dùng Ridomil Gold với tần suất 10–15 ngày/lần cho đến khi tình hình ổn định.\n\n**3. Tưới vào chất trồng (rễ):**\n- Dùng phòng ngừa nấm bệnh trong đất (sau Tết hoặc trước mùa mưa), tưới định kỳ mỗi 2–3 tuần bằng dung dịch kết hợp hoặc luân phiên. \n- *Lưu ý quan trọng:* Vì đây là loại thuốc nấm mạnh và nóng, không nên tưới quá thường xuyên để tránh gây cháy rễ hoặc ảnh hưởng xấu đến cây. Chỉ nên dùng tối đa 1 lần/tháng đối với việc tưới gốc.\n\n---\n\nĐể chăm sóc cây mai của bạn hiệu quả hơn, bạn có thể cho tôi biết thêm một vài thông tin nhé:\n1. Hiện tại bạn đang muốn dùng Ridomil Gold để phòng bệnh tổng quát hay cây mai của bạn đang gặp triệu chứng cụ thể nào ở rễ, thân hay lá?\n2. Bạn đã sử dụng loại thuốc này cho cây lần nào chưa và liều lượng trước đó bạn dùng là bao nhiêu?",
+    "retrieved_contexts": [
+      {
+        "rank": 1,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "## 2. RIDOMIL GOLD (THUỐC NẤM HÓA HỌC)\n\n- Thành phần: Metalaxyl + Mancozeb.\n\n- Tác động: Nội hấp, lưu dẫn mạnh.\n\n- Công dụng:\n\n1. Diệt nhanh nấm gây bệnh rễ, thân và lá, đặc trị xì mủ, thúi rễ, bệnh thúi nhũn.\n\nLÊ VIỆT 0938.93.43.23 logo\n\n<page_number>25</page_number>\n\nTài liệu lưu hành nội bộ\n\nBộ 99 câu hỏi về Chăm Sóc Mai Vàng\n\n2. Có thể dùng cho cả rễ, lá và thân.\n\n3. Cách sử dụng Ridomil Gold (tham khảo câu hỏi số 14).\n\n- **Quét thân**: 10g Ridomil Gold pha với 50–100ml nước, sau đó quét đều lên thân.\n\n**LƯU Ý KHI DÙNG:**\n\n* Ridomil Gold là thuốc nấm mạnh và nóng, không nên tưới thường xuyên → có thể gây \"cháy rễ\" hoặc ảnh hưởng cây nếu lạm dụng (có thể xem trang 44.). Nên dùng đúng liều, đúng lịch theo hướng dẫn.\n\n* Nên luân phiên với các loại thuốc nấm khác để tránh tình trạng kháng thuốc.",
+        "score": 0.9973456263542175
+      },
+      {
+        "rank": 2,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "# VÀO THÂN CÂY (THAM KHẢO)\n\nLê Việt logo and phone number 0938.93.43.23\n\n<page_number>31</page_number>\n\nTài liệu lưu hành nội bộ\n\nBộ 99 câu hỏi về Chăm Sóc Mai Vàng\n\n<table>\n <thead>\n <tr>\n <th>STT</th>\n <th>THỜI ĐIỂM</th>\n <th>CÁCH SỬ DỤNG</th>\n </tr>\n </thead>\n <tbody>\n <tr>\n <td>01</td>\n <td><strong>LỊCH QUÉT THUỐC NẤM (PHÒNG BỆNH)</strong></td>\n <td>- Pha Ridomil Gold (<em>10gram / 100ml nước</em>) hoặc Coc85 (<em>10gram / 100ml-200ml nước</em>).<br/>- Dùng cọ/ bàn chải quét lên thân vào 02 thời điểm: <strong>Sau tết và trước khi/ sau khi mùa mưa kết thúc.</strong></td>\n </tr>\n <tr>\n <td>02</td>\n <td><strong>LỊCH QUÉT THUỐC NẤM (trị BỆNH)</strong></td>\n <td>- Khi phát hiện bệnh : nấm hồng, địa y... trên thân cây thì pha Ridomil Gold (<em>10gram / 50ml nước</em>) hoặc Coc85 (<em>10gram / 50ml-100ml nước</em>) quét trực tiếp vào vùng bị bệnh.<br/>- Sau 5-10 ngày thì tiến hành xịt thuốc nấm <strong>Anvil</strong> (hoặc Ridomil Gold) để khả năng tái bệnh xuống thấp nhất. <em>Các lần sau xịt phòng ngừa với lịch tăng thêm 20 ngày/ 01 lần.</em><br/><strong>KÈM THEO XỊT ƯỚT ĐẪM THÂN - CHI - CÀNH - LÁ</strong> để tránh tái lại các loại bệnh nấm trên thân chi cành của cây.</td>\n </tr>\n </tbody>\n</table>",
+        "score": 0.9946908354759216
+      },
+      {
+        "rank": 3,
+        "document_id": "diseases.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "### HƯỚNG DẪN CHI TIẾT LỊCH PHÒNG NẤM TRÊN CÂY MAI VÀNG\nCombo thuốc trị nấm: Ridomil Gold Anvil, Coco85, Antracol.\n\nHiệu quả: giúp phòng ngừa nấm bệnh trong đất và trên lá.\n\n**LỊCH TƯỚI THUỐC NẤM VÀO CHẤT TRỒNG (THAM KHẢO)**\n\n* Sau Tết (khoảng tháng 01 âm lịch): Sau khi thay chất trồng, tưới thuốc nấm mỗi 2–3 tuần bằng Ridomil Gold Anvil hoặc Coco85.\n\n* Trước khi bắt đầu mùa mưa: Tiếp tục tưới thuốc nấm mỗi 2–3 tuần bằng Ridomil Gold Anvil hoặc Coco85 cho đến khi mùa mưa bắt đầu.\n\n**LỊCH XỊT THUỐC NẤM VÀO LÁ - THÂN CÂY**\n| STT | THỜI ĐIỂM | CÁCH SỬ DỤNG |\n| --- | --- | --- |\n| 01 | **Phòng bệnh** | Pha Anvil 1–2ml/lít nước; Ridomil Gold 1–2g/lít nước. Xịt lần đầu khi xanh lá cơi 02. Mùa mưa: xịt 1 tháng/lần; cao điểm mùa mưa: xen kẽ Anvil & Ridomil Gold 20 ngày/lần. |\n| 02 | **Trị bệnh** | Khi phát hiện bệnh, đổi sang COC85, xịt cách nhau 7–10 ngày; sau đó chuyển Ridomil Gold 10–15 ngày/lần. Khi ổn định, quay lại Anvil. Lưu ý: thuốc chỉ ngăn lây lan, không làm hết vết bệnh cũ. |",
+        "score": 0.993697464466095
+      },
+      {
+        "rank": 4,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "# Triệu chứng NÓNG RỄ do RIDOMIL GOLD & N3M\n\nTriệu chứng nóng rễ do sử dụng dưỡng rễ N3M hoặc RIDOMIL GOLD không phải là bệnh mà do cây mai không phù hợp với các loại thuốc này hoặc do quá trình sử dụng bị quá liều, hoặc xài hàng giả/ nhái. Tình trạng này dẫn đến nóng rễ, gây vàng lá, biểu hiện rõ như nấm hồng.\n\n* **Biểu hiện trên lá:** Nếu nhìn sơ qua, triệu chứng này có thể giống bệnh nấm hồng. Tuy nhiên, nếu quan sát kỹ, màu vàng trên lá sẽ cân đối hai bên lá, trong khi nấm hồng thường chỉ làm vàng một bên lá, còn bên kia ít bị hơn (xem hình minh họa nấm hồng & nóng rễ do N3M hoặc RIDOMIL GOLD).\n\nThêm vào đó, triệu chứng nóng rễ và vàng lá do RIDOMIL GOLD và dưỡng rễ N3M thường xuất hiện trên lá của toàn bộ cây hoặc phần lớn cành nhánh trên cây, không tập trung ở lá trên cành hoặc nhánh cụ thể như ở bệnh nấm hồng.\n\n✓ Hiện tượng nóng rễ - vàng lá không phải là bệnh, mà do lạm dụng thuốc. Để khắc phục, quý cô chú, anh chị cần giảm hoặc ngừng hẳn sử dụng các loại thuốc này.\n\n* Kiểm tra lại dưỡng rễ N3M hoặc RIDOMIL GOLD: xem hàng chính hãng hay không, có sử dụng quá liều hay không, có tưới nhiều không.\n\n* Giảm liều lượng: Nếu đang pha 2 gam trên 1 lít nước (đối với cả hai loại), thì có thể giảm xuống còn khoảng 01 gam/lít. Hoặc, nếu tưới 02 lít đã pha thuốc cho cây chậu 60cm lọt lòng, thì giảm lại, chỉ tưới 01 lít trong các lần sau đó.\n\nLÊ VIỆT Mai vàng & Bonsai 0938.93.43.23 logo\n\n<page_number>\n44\n</page_number>\n\nTài liệu lưu hành nội bộ\n\n<u>Bộ 99 câu hỏi về Chăm Sóc Mai Vàng</u>\n\n* **Tăng khoảng cách giữa các lần tưới:** Nếu lịch tưới là 7-10 ngày, có thể kéo dài ra khoảng 15-20 ngày giữa các lần tưới. Lưu ý **RIDOMIL GOLD** là thuốc phòng trị nấm không phải dưỡng rễ, chỉ sử dụng nhiều nhất 1 lần/ 1 tháng.\n\n* Kết hợp giảm liều lượng và kéo dài thời gian tưới sẽ giúp giảm triệu chứng nóng rễ.\n\n- Nếu cây vẫn không cải thiện hoặc muốn thay đổi thuốc, có thể sử dụng các loại dưỡng rễ hữu cơ (**Root2, Terrasorb 4 Root, Rootplex...**) khác hoặc thuốc nấm tưới gốc Trichoderma hoặc Metalaxyl... để thay cho N3M và RIDOMIL GOLD.\n\nTrong trường hợp cây bị trên diện rộng và cần xử lý ngay, quý cô chú, anh chị có thể tham khảo phương án sử dụng **B12** để xử lý cây bị ngộ độc phân thuốc hoặc thuốc diệt cỏ (ở trang 61). Cách làm này giúp cây nhanh chóng phục hồi, giảm thiểu tác hại do nóng rễ gây ra.\n\n\\*\\*\\* *Một số loại dưỡng rễ gốc NPK hoặc thuốc nấm tưới gốc khác cũng dẫn đến tình trạng bệnh tương tự.*",
+        "score": 0.9811937212944031
+      },
+      {
+        "rank": 5,
+        "document_id": "1-66.md",
+        "article": null,
+        "clause": null,
+        "point": null,
+        "text": "## 2. Khôi phục Hệ rễ\n\n**✓ Phòng trị Nấm và Tuyến trùng**\n\n- Để xử lý nấm rễ (thối rễ, xì mủ), nên sử dụng thuốc nấm Ridomil Gold (Metalaxyl + Mancozeb) với liều lượng 02 gram/1 lít nước. Pha cùng Atonik liều 01ml / 02 lít nước. Nếu có tuyến trùng thì pha thêm Tervigo 1ml/ 1 lít.\n\n- Ngâm toàn bộ rễ cây (sau khi đã phá toàn bộ chất trồng + cắt/ đục bỏ rễ hư thối, bệnh, nếu cây bị nặng, có thể ngâm cả cây (dùng vải thấm thuốc quấn lên thân), trong dung dịch đó từ 8-12 tiếng.\n\nMinh họa cây mai được bọc nilon kín sau khi xử lý rễ\n\nKhi vô chậu phù hợp, lấy hỗn hợp dung dịch trên tưới thật đẫm chất trồng. Sau đó dùng bọc nilon, bọc toàn bộ cây và chậu, bịt kín hơi và đặt cây nơi mát (tránh hoàn toàn nắng) trong ít nhất 15-30 ngày (ko tháo bọc nilon, không tưới bất kỳ cái gì).\n\nNếu chậu nhỏ ( từ dưới size 40cm lọt lòng) thì 15-20 ngày kiểm tra mầm tược - lá, nếu chậu lớn hơn (size 50 trở lên), thì từ 30 ngày trở lên. Nếu có mầm lá phát triển, thì tiến hành pha dung dịch trên tưới khoảng từ 2-5 lít tùy size chậu và bọc nylon như cũ, nếu không phát triển thì theo dõi tiếp.\n\nLÊ VIỆT logo\n\n<page_number>65</page_number>\n\nTài liệu lưu hành nội bộ\n\n<u>Bộ 99 câu hỏi về Chăm Sóc Mai Vàng</u>\n\n- Nếu khoảng 02 tháng cây không phát triển mầm, thì nhổ bỏ, vì cây đã mất khả năng phục hồi. Nếu cây có phát triển mầm, lá... thì theo dõi lá to bản cỡ 2 ngón tay thì tiến hành xả gió (đục 1-3 lỗ nhỏ cỡ đầu đũa), khoảng 10-15 ngày thì tháo bọc nylon ra khỏi chậu và cây. Chọn lựa thời điểm mát trời, chiều tối hoặc những ngày mưa mát. Nếu có dấu hiệu bọ trĩ thì xịt sương nhẹ qua lá để phòng.\n\n- Sau đó tiến hành tưới dung dịch trên khoảng 15 ngày / 01 lần, tưới khoảng 3 lần liên tục và xả bỏ cây (tức là không sử dụng bất kỳ sản phẩm gì khác). Nếu cây có dấu hiệu ra cơi lá thứ 2 thì mới tiến hành bước tiếp theo.\n\n**✓ Giải độc và Phục hồi mạch dẫn**\n\n- Sử dụng Vitamin B12 (1000mcg pha 0.5L nước) để tưới gốc và xịt thân/lá là phương pháp hiệu quả. B12 không chỉ hỗ trợ giải độc mà còn kích thích khả năng chuyển hóa và hấp thụ, giúp cây nhanh chóng \"tỉnh táo\" và hồi phục. Xem chi tiết HDSD tại trang 61. Sử dụng liên tục 03 lần, mỗi lần cách nhau 03 ngày.\n\n- Sau khi sử dụng B12, pha dưỡng rễ nhẹ (Terrasorb 4 Root hoặc Root2), với liều lượng khoảng 50% so với bình thường. Tưới khoảng 2-5 lít tùy size chậu lớn, nhỏ, tưới cách nhau khoảng 10 ngày trong 03 lần liên tục và ngừng, chờ cơi lá thứ 2 phát triển.\n\n- **Trường hợp cơi lá 2 phát triển không đều:** tưới dưỡng rễ nhẹ với liều lượng khoảng 50% so với bình thường. Tưới khoảng 2-5 lít tùy size chậu lớn, nhỏ, tưới cách nhau khoảng 20 liên tục. Khoảng 3 tháng rồi ngừng và tùy tự nhiên.\n\n- **Trường hợp cơi lá 2 phát triển đều:** Cây đã tỉnh táo và dùng phương án phục hồi ở trang 75.\n\nMai vàng & Bonsai LÊ VIỆT 0938.93.43.23 logo\n\n<page_number>66</page_number>\n\nTài liệu lưu hành nội bộ",
+        "score": 0.9767643809318542
+      }
+    ],
+    "citations": [],
+    "latency_ms": 20239.666199999192,
+    "error": null
+  }
+]

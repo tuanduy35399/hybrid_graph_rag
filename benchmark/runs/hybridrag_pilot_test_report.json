@@ -1,0 +1,1043 @@
+{
+ "system": "hybridrag",
+ "n_questions": 50,
+ "n_evaluated": 2,
+ "n_missing_outputs": 48,
+ "n_errors": 0,
+ "missing_question_ids": [
+  "care_nam_re_01",
+  "care_tuoi_nuoc_01",
+  "care_bon_phan_01",
+  "disease_nam_hong_01",
+  "disease_nam_re_01",
+  "disease_rep_sap_01",
+  "disease_bo_tri_01",
+  "disease_dom_la_01",
+  "mixed_nam_hong_01",
+  "mixed_rep_sap_01",
+  "mixed_ung_re_01",
+  "mixed_tuoi_01",
+  "mixed_sau_01",
+  "general_ghep_01",
+  "general_dat_01",
+  "general_tuoi_01",
+  "general_mai_tu_quy_01",
+  "general_insufficient_01",
+  "care_nhen_do_01",
+  "care_bo_tri_lon_thuoc_01",
+  "care_ridomil_chat_trong_01",
+  "care_xu_ly_xo_dua_01",
+  "care_thao_boc_sau_ghep_01",
+  "care_cat_don_sau_tet_01",
+  "care_mua_mua_tuoi_nuoc_01",
+  "care_bon_phan_4_giai_doan_01",
+  "disease_nhen_do_01",
+  "disease_sau_duc_than_01",
+  "disease_ri_sat_01",
+  "disease_than_thu_01",
+  "disease_nong_re_n3m_01",
+  "disease_chay_nang_la_01",
+  "disease_nam_la_vs_than_re_01",
+  "mixed_bo_tri_mua_nang_01",
+  "mixed_chay_nang_co_nguy_hiem_01",
+  "mixed_phan_biet_du_thieu_nuoc_01",
+  "mixed_xu_ly_rung_nu_01",
+  "mixed_tai_su_dung_chat_trong_01",
+  "mixed_xu_ly_chau_qua_lon_01",
+  "mixed_mot_loai_phan_quanh_nam_01",
+  "mixed_sai_lam_bon_phan_sau_tet_01",
+  "general_mai_zin_vs_ghep_01",
+  "general_mai_giao_vs_cuc_01",
+  "general_nguyen_tac_dao_ghep_01",
+  "general_uu_tien_bo_ghep_01",
+  "general_dinh_duong_giai_doan_4_01",
+  "general_tinh_gia_tri_phoi_01",
+  "general_thuan_chau_tuoi_nuoc_01"
+ ],
+ "extra_output_ids": [],
+ "primary_metrics": [
+  "evidence_recall",
+  "evidence_recall@5",
+  "evidence_recall@2000tok",
+  "hit_rate",
+  "hit_all",
+  "citation_article_accuracy",
+  "citation_recall",
+  "correct_abstention",
+  "latency_ms"
+ ],
+ "diagnostic_metrics": [
+  "mrr",
+  "hit@5",
+  "context_precision",
+  "citation_precision",
+  "citation_document_accuracy",
+  "error_rate"
+ ],
+ "lower_is_better": [
+  "latency_ms",
+  "error_rate"
+ ],
+ "metrics": {
+  "citation_article_accuracy": {
+   "name": "citation_article_accuracy",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "citation_clause_accuracy": {
+   "name": "citation_clause_accuracy",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "citation_document_accuracy": {
+   "name": "citation_document_accuracy",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "citation_point_accuracy": {
+   "name": "citation_point_accuracy",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "citation_precision": {
+   "name": "citation_precision",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "citation_recall": {
+   "name": "citation_recall",
+   "micro": 0.0,
+   "macro": 0.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 0.0,
+   "ci_high": 0.0,
+   "by_category": {
+    "care_guidance": 0.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "claim_f1": {
+   "name": "claim_f1",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "claim_precision": {
+   "name": "claim_precision",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 0,
+   "n_unavailable": 2,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "claim_recall": {
+   "name": "claim_recall",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "context_precision": {
+   "name": "context_precision",
+   "micro": 0.9,
+   "macro": 0.9,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 0.8,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 0.9
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "correct_abstention": {
+   "name": "correct_abstention",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "error_rate": {
+   "name": "error_rate",
+   "micro": 0.0,
+   "macro": 0.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 0.0,
+   "ci_high": 0.0,
+   "by_category": {
+    "care_guidance": 0.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "evidence_recall": {
+   "name": "evidence_recall",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "evidence_recall@1": {
+   "name": "evidence_recall@1",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "evidence_recall@10": {
+   "name": "evidence_recall@10",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "evidence_recall@2000tok": {
+   "name": "evidence_recall@2000tok",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "evidence_recall@3": {
+   "name": "evidence_recall@3",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "evidence_recall@5": {
+   "name": "evidence_recall@5",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "evidence_recall_required": {
+   "name": "evidence_recall_required",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "faithfulness": {
+   "name": "faithfulness",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 0,
+   "n_unavailable": 2,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "false_answer_rate": {
+   "name": "false_answer_rate",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "hallucination_rate": {
+   "name": "hallucination_rate",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 0,
+   "n_unavailable": 2,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "hit@1": {
+   "name": "hit@1",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "hit@10": {
+   "name": "hit@10",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "hit@3": {
+   "name": "hit@3",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "hit@5": {
+   "name": "hit@5",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "hit_all": {
+   "name": "hit_all",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "hit_rate": {
+   "name": "hit_rate",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 2,
+   "n_unavailable": 0,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "latency_ms": {
+   "name": "latency_ms",
+   "micro": 21207.84669999921,
+   "macro": 21207.84669999921,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 20239.666199999192,
+   "ci_high": 22176.027199999226,
+   "by_category": {
+    "care_guidance": 21207.84669999921
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "mrr": {
+   "name": "mrr",
+   "micro": 1.0,
+   "macro": 1.0,
+   "n": 2,
+   "n_not_applicable": 0,
+   "n_unavailable": 0,
+   "ci_low": 1.0,
+   "ci_high": 1.0,
+   "by_category": {
+    "care_guidance": 1.0
+   },
+   "category_counts": {
+    "care_guidance": 2
+   }
+  },
+  "retrieval_gap_rate": {
+   "name": "retrieval_gap_rate",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 0,
+   "n_unavailable": 2,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  },
+  "unsupported_claim_rate": {
+   "name": "unsupported_claim_rate",
+   "micro": null,
+   "macro": null,
+   "n": 0,
+   "n_not_applicable": 0,
+   "n_unavailable": 2,
+   "ci_low": null,
+   "ci_high": null,
+   "by_category": {
+    "care_guidance": null
+   },
+   "category_counts": {
+    "care_guidance": 0
+   }
+  }
+ },
+ "judge": {
+  "judge": "null",
+  "deterministic": true
+ },
+ "judge_usage": {
+  "calls": 0,
+  "decided": 0,
+  "unknown": 0,
+  "by_verdict": {}
+ },
+ "config": {
+  "k_values": [
+   1,
+   3,
+   5,
+   10
+  ],
+  "context_budgets": [
+   2000
+  ],
+  "policy": {
+   "text_overlap_threshold": 0.8,
+   "use_structural": true,
+   "use_text": true,
+   "use_judge": true,
+   "hard_negative_levels": [
+    "document",
+    "article"
+   ],
+   "undecided_counts_as": null,
+   "coarse_metadata_counts": false,
+   "verify_text_when_available": false
+  },
+  "bootstrap": {
+   "n_samples": 1000,
+   "confidence": 0.95,
+   "seed": 20260101,
+   "enabled": true
+  },
+  "token_counter": "default_token_counter"
+ },
+ "notes": [
+  "48 question(s) had no system output and were excluded from every mean (not scored as 0)"
+ ],
+ "per_question": [
+  {
+   "question_id": "care_nam_hong_01",
+   "category": "care_guidance",
+   "answerable": true,
+   "system": "hybridrag",
+   "error": null,
+   "latency_ms": 22176.027199999226,
+   "n_answer_claims": null,
+   "metrics": {
+    "evidence_recall": 1.0,
+    "evidence_recall_required": 1.0,
+    "context_precision": 1.0,
+    "mrr": 1.0,
+    "hit_rate": null,
+    "hit_all": null,
+    "claim_precision": null,
+    "claim_recall": null,
+    "claim_f1": null,
+    "faithfulness": null,
+    "hallucination_rate": null,
+    "retrieval_gap_rate": null,
+    "unsupported_claim_rate": null,
+    "citation_document_accuracy": null,
+    "citation_article_accuracy": null,
+    "citation_clause_accuracy": null,
+    "citation_point_accuracy": null,
+    "citation_precision": null,
+    "citation_recall": 0.0,
+    "correct_abstention": null,
+    "false_answer_rate": null,
+    "latency_ms": 22176.027199999226,
+    "error_rate": 0.0,
+    "hit@1": 1.0,
+    "hit@3": 1.0,
+    "hit@5": 1.0,
+    "hit@10": 1.0,
+    "evidence_recall@1": 1.0,
+    "evidence_recall@3": 1.0,
+    "evidence_recall@5": 1.0,
+    "evidence_recall@10": 1.0,
+    "evidence_recall@2000tok": 1.0
+   },
+   "metric_status": {
+    "evidence_recall": "ok",
+    "evidence_recall_required": "ok",
+    "context_precision": "ok",
+    "mrr": "ok",
+    "hit_rate": "not_applicable",
+    "hit_all": "not_applicable",
+    "claim_precision": "unavailable",
+    "claim_recall": "not_applicable",
+    "claim_f1": "not_applicable",
+    "faithfulness": "unavailable",
+    "hallucination_rate": "unavailable",
+    "retrieval_gap_rate": "unavailable",
+    "unsupported_claim_rate": "unavailable",
+    "citation_document_accuracy": "not_applicable",
+    "citation_article_accuracy": "not_applicable",
+    "citation_clause_accuracy": "not_applicable",
+    "citation_point_accuracy": "not_applicable",
+    "citation_precision": "not_applicable",
+    "citation_recall": "ok",
+    "correct_abstention": "not_applicable",
+    "false_answer_rate": "not_applicable",
+    "latency_ms": "ok",
+    "error_rate": "ok",
+    "hit@1": "ok",
+    "hit@3": "ok",
+    "hit@5": "ok",
+    "hit@10": "ok",
+    "evidence_recall@1": "ok",
+    "evidence_recall@3": "ok",
+    "evidence_recall@5": "ok",
+    "evidence_recall@10": "ok",
+    "evidence_recall@2000tok": "ok"
+   },
+   "retrieval": {
+    "evidence_recall": 1.0,
+    "evidence_recall_required": 1.0,
+    "context_precision": 1.0,
+    "hit_at_k": {
+     "1": 1.0,
+     "3": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "mrr": 1.0,
+    "first_relevant_rank": 1,
+    "topk_evidence_recall": {
+     "1": 1.0,
+     "3": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "budget_evidence_recall": {
+     "2000": 1.0
+    },
+    "n_gold_evidence": 3,
+    "n_required_evidence": 3,
+    "n_supported": 3,
+    "n_undecided": 0,
+    "n_contexts": 5,
+    "supports": [
+     {
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "required": true,
+      "supported": true,
+      "rank": 1,
+      "method": "structural",
+      "detail": "declared location matches gold",
+      "soft_mismatch": []
+     },
+     {
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "required": true,
+      "supported": true,
+      "rank": 1,
+      "method": "structural",
+      "detail": "declared location matches gold",
+      "soft_mismatch": []
+     },
+     {
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "required": true,
+      "supported": true,
+      "rank": 1,
+      "method": "structural",
+      "detail": "declared location matches gold",
+      "soft_mismatch": []
+     }
+    ],
+    "notes": []
+   },
+   "answer": {
+    "hit_rate": null,
+    "hit_all": null,
+    "n_gold_markers": 0,
+    "n_markers_hit": 0,
+    "missing_markers": [],
+    "claim_precision": null,
+    "claim_recall": null,
+    "claim_f1": null,
+    "n_answer_claims": null,
+    "n_gold_claims": 0,
+    "n_claim_undecided": 0,
+    "claim_details": [],
+    "notes": [
+     "no gold markers: hit_rate/hit_all not applicable",
+     "answer claims unavailable: claim_precision not applicable",
+     "no gold claims: claim_recall not applicable"
+    ]
+   },
+   "grounding": {
+    "faithfulness": null,
+    "hallucination_rate": null,
+    "retrieval_gap_rate": null,
+    "unsupported_claim_rate": null,
+    "n_claims": null,
+    "n_undecided": 0,
+    "claims": [],
+    "notes": [
+     "answer claims unavailable: grounding metrics need claim extraction"
+    ]
+   },
+   "citation": {
+    "document_accuracy": null,
+    "article_accuracy": null,
+    "clause_accuracy": null,
+    "point_accuracy": null,
+    "citation_precision": null,
+    "citation_recall": 0.0,
+    "n_citations": 0,
+    "n_gold_required_evidence": 3,
+    "n_undecided": 0,
+    "details": [
+     {
+      "kind": "required_evidence",
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "cited": false,
+      "matched_citation": null
+     },
+     {
+      "kind": "required_evidence",
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "cited": false,
+      "matched_citation": null
+     },
+     {
+      "kind": "required_evidence",
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "cited": false,
+      "matched_citation": null
+     }
+    ],
+    "notes": [
+     "document_accuracy: not applicable (no declared document on both sides)",
+     "article_accuracy: not applicable (no declared article on both sides)",
+     "clause_accuracy: not applicable (no declared clause on both sides)",
+     "point_accuracy: not applicable (no declared point on both sides)",
+     "no citations: citation_precision not applicable"
+    ]
+   },
+   "abstention": {
+    "correct_abstention": null,
+    "false_answer_rate": null,
+    "unsupported_claim_rate": null,
+    "abstained": false,
+    "notes": [
+     "item.answerable is True: correct_abstention/false_answer_rate not applicable"
+    ]
+   }
+  },
+  {
+   "question_id": "care_ridomil_gold_01",
+   "category": "care_guidance",
+   "answerable": true,
+   "system": "hybridrag",
+   "error": null,
+   "latency_ms": 20239.666199999192,
+   "n_answer_claims": null,
+   "metrics": {
+    "evidence_recall": 1.0,
+    "evidence_recall_required": 1.0,
+    "context_precision": 0.8,
+    "mrr": 1.0,
+    "hit_rate": null,
+    "hit_all": null,
+    "claim_precision": null,
+    "claim_recall": null,
+    "claim_f1": null,
+    "faithfulness": null,
+    "hallucination_rate": null,
+    "retrieval_gap_rate": null,
+    "unsupported_claim_rate": null,
+    "citation_document_accuracy": null,
+    "citation_article_accuracy": null,
+    "citation_clause_accuracy": null,
+    "citation_point_accuracy": null,
+    "citation_precision": null,
+    "citation_recall": 0.0,
+    "correct_abstention": null,
+    "false_answer_rate": null,
+    "latency_ms": 20239.666199999192,
+    "error_rate": 0.0,
+    "hit@1": 1.0,
+    "hit@3": 1.0,
+    "hit@5": 1.0,
+    "hit@10": 1.0,
+    "evidence_recall@1": 1.0,
+    "evidence_recall@3": 1.0,
+    "evidence_recall@5": 1.0,
+    "evidence_recall@10": 1.0,
+    "evidence_recall@2000tok": 1.0
+   },
+   "metric_status": {
+    "evidence_recall": "ok",
+    "evidence_recall_required": "ok",
+    "context_precision": "ok",
+    "mrr": "ok",
+    "hit_rate": "not_applicable",
+    "hit_all": "not_applicable",
+    "claim_precision": "unavailable",
+    "claim_recall": "not_applicable",
+    "claim_f1": "not_applicable",
+    "faithfulness": "unavailable",
+    "hallucination_rate": "unavailable",
+    "retrieval_gap_rate": "unavailable",
+    "unsupported_claim_rate": "unavailable",
+    "citation_document_accuracy": "not_applicable",
+    "citation_article_accuracy": "not_applicable",
+    "citation_clause_accuracy": "not_applicable",
+    "citation_point_accuracy": "not_applicable",
+    "citation_precision": "not_applicable",
+    "citation_recall": "ok",
+    "correct_abstention": "not_applicable",
+    "false_answer_rate": "not_applicable",
+    "latency_ms": "ok",
+    "error_rate": "ok",
+    "hit@1": "ok",
+    "hit@3": "ok",
+    "hit@5": "ok",
+    "hit@10": "ok",
+    "evidence_recall@1": "ok",
+    "evidence_recall@3": "ok",
+    "evidence_recall@5": "ok",
+    "evidence_recall@10": "ok",
+    "evidence_recall@2000tok": "ok"
+   },
+   "retrieval": {
+    "evidence_recall": 1.0,
+    "evidence_recall_required": 1.0,
+    "context_precision": 0.8,
+    "hit_at_k": {
+     "1": 1.0,
+     "3": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "mrr": 1.0,
+    "first_relevant_rank": 1,
+    "topk_evidence_recall": {
+     "1": 1.0,
+     "3": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "budget_evidence_recall": {
+     "2000": 1.0
+    },
+    "n_gold_evidence": 1,
+    "n_required_evidence": 1,
+    "n_supported": 1,
+    "n_undecided": 0,
+    "n_contexts": 5,
+    "supports": [
+     {
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "required": true,
+      "supported": true,
+      "rank": 1,
+      "method": "structural",
+      "detail": "declared location matches gold",
+      "soft_mismatch": []
+     }
+    ],
+    "notes": []
+   },
+   "answer": {
+    "hit_rate": null,
+    "hit_all": null,
+    "n_gold_markers": 0,
+    "n_markers_hit": 0,
+    "missing_markers": [],
+    "claim_precision": null,
+    "claim_recall": null,
+    "claim_f1": null,
+    "n_answer_claims": null,
+    "n_gold_claims": 0,
+    "n_claim_undecided": 0,
+    "claim_details": [],
+    "notes": [
+     "no gold markers: hit_rate/hit_all not applicable",
+     "answer claims unavailable: claim_precision not applicable",
+     "no gold claims: claim_recall not applicable"
+    ]
+   },
+   "grounding": {
+    "faithfulness": null,
+    "hallucination_rate": null,
+    "retrieval_gap_rate": null,
+    "unsupported_claim_rate": null,
+    "n_claims": null,
+    "n_undecided": 0,
+    "claims": [],
+    "notes": [
+     "answer claims unavailable: grounding metrics need claim extraction"
+    ]
+   },
+   "citation": {
+    "document_accuracy": null,
+    "article_accuracy": null,
+    "clause_accuracy": null,
+    "point_accuracy": null,
+    "citation_precision": null,
+    "citation_recall": 0.0,
+    "n_citations": 0,
+    "n_gold_required_evidence": 1,
+    "n_undecided": 0,
+    "details": [
+     {
+      "kind": "required_evidence",
+      "evidence": "1-66.md",
+      "location": "1-66.md",
+      "cited": false,
+      "matched_citation": null
+     }
+    ],
+    "notes": [
+     "document_accuracy: not applicable (no declared document on both sides)",
+     "article_accuracy: not applicable (no declared article on both sides)",
+     "clause_accuracy: not applicable (no declared clause on both sides)",
+     "point_accuracy: not applicable (no declared point on both sides)",
+     "no citations: citation_precision not applicable"
+    ]
+   },
+   "abstention": {
+    "correct_abstention": null,
+    "false_answer_rate": null,
+    "unsupported_claim_rate": null,
+    "abstained": false,
+    "notes": [
+     "item.answerable is True: correct_abstention/false_answer_rate not applicable"
+    ]
+   }
+  }
+ ]
+}
